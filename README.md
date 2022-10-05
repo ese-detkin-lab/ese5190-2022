@@ -1,1 +1,1 @@
-# ese5190-2022
+University of Pennsylvania, ESE 5190: Intro to Embedded Systems
