@@ -12,10 +12,15 @@
 
 ### Windows
 #### Native
+- STUDENT NAME: LINK TO GUIDE
 #### WSL (Windows Subsystem for Linux)
+- STUDENT NAME: LINK TO GUIDE
 ### Mac
 #### x86
+- STUDENT NAME: LINK TO GUIDE
 #### M1/M2
+- STUDENT NAME: LINK TO GUIDE
 ### Linux
 #### Ubuntu
+- STUDENT NAME: LINK TO GUIDE
 ### Other...
