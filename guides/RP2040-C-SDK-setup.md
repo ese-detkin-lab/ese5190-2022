@@ -20,6 +20,7 @@
 - STUDENT NAME: LINK TO GUIDE
 #### M1/M2
 - STUDENT NAME: LINK TO GUIDE
+- Yuchen Wang https://github.com/YuchenWang0303/Documentation-of-M1-MacBook-to-use-QT-PY-2040-.git
 ### Linux
 #### Ubuntu
 - STUDENT NAME: LINK TO GUIDE
