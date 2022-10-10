@@ -13,9 +13,9 @@
 ### Windows
 
 #### Native
+- SOUMYA RANJAN DASH: [LINK TO GUIDE](https://github.com/unlim-int-soumya/-Lab-2-SETUP-GUIDE/blob/main/README.md)
 - SATYAJEET DAS: [LINK TO GUIDE : Setup Gide for SDK on your Windows Machine for Raspberry Pi RP2040.](https://github.com/satyajeetburla/-Lab-2-SETUP-GUIDE)
 - Yuxuan Li: https://github.com/Yuxuan-Li295/ese5190-2022-lab2-into-the-void-star?organization=Yuxuan-Li295&organization=Yuxuan-Li295
-
 #### WSL (Windows Subsystem for Linux)
 - STUDENT NAME: LINK TO GUIDE
 ### Mac
