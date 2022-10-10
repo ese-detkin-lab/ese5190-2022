@@ -19,6 +19,7 @@
 - Michael Peters: https://github.com/mvpeters/ESE-5190-Guides/blob/main/ESE5190-Lab2-Setup-Windows.md
 #### WSL (Windows Subsystem for Linux)
 - TEMPLATE [Student Name: link to guide]
+- Haoze Wu: https://github.com/TomGoh/ese5190-logs/blob/main/lab2-sdk-setup-guide-wsl.md
 ### Mac
 #### x86
 - TEMPLATE [Student Name: link to guide]
@@ -30,4 +31,5 @@
 ### Linux
 #### Ubuntu
 - TEMPLATE [Student Name: link to guide]
+
 ### Other...
