@@ -12,7 +12,7 @@
 
 ### Windows
 #### Native
-- STUDENT NAME: LINK TO GUIDE
+- SOUMYA RANJAN DASH: [LINK TO GUIDE](https://github.com/unlim-int-soumya/-Lab-2-SETUP-GUIDE/blob/main/README.md)
 #### WSL (Windows Subsystem for Linux)
 - STUDENT NAME: LINK TO GUIDE
 ### Mac
