@@ -12,7 +12,7 @@
 
 ### Windows
 #### Native
-- SATYAJEET DAS: [LINK TO GUIDE](https://github.com/satyajeetburla/-Lab-2-SETUP-GUIDE)
+- SATYAJEET DAS: [LINK TO GUIDE : Setup Gide for SDK on your Windows Machine for Raspberry Pi RP2040.](https://github.com/satyajeetburla/-Lab-2-SETUP-GUIDE)
 #### WSL (Windows Subsystem for Linux)
 - STUDENT NAME: LINK TO GUIDE
 ### Mac
