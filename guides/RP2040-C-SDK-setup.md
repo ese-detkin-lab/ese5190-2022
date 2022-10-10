@@ -11,21 +11,21 @@
 ## Student Guides
 
 ### Windows
-
 #### Native
-- SOUMYA RANJAN DASH: [LINK TO GUIDE](https://github.com/unlim-int-soumya/-Lab-2-SETUP-GUIDE/blob/main/README.md)
-- SATYAJEET DAS: [LINK TO GUIDE : Setup Gide for SDK on your Windows Machine for Raspberry Pi RP2040.](https://github.com/satyajeetburla/-Lab-2-SETUP-GUIDE)
-- Yuxuan Li: https://github.com/Yuxuan-Li295/ese5190-2022-lab2-into-the-void-star?organization=Yuxuan-Li295&organization=Yuxuan-Li295
+- TEMPLATE [Student Name: link to guide]
+- Soumya Ranjan Dash: https://github.com/unlim-int-soumya/-Lab-2-SETUP-GUIDE/blob/main/README.md
+- Satyajeet Das: https://github.com/satyajeetburla/-Lab-2-SETUP-GUIDE
+- Yuxuan Li: https://github.com/Yuxuan-Li295/ese5190-2022-lab2-into-the-void-star
 #### WSL (Windows Subsystem for Linux)
-- STUDENT NAME: LINK TO GUIDE
+- TEMPLATE [Student Name: link to guide]
 ### Mac
 #### x86
-- STUDENT NAME: LINK TO GUIDE
+- TEMPLATE [Student Name: link to guide]
 - Ronil Synghal: https://github.com/ronils428/ese519-notes/blob/main/lab2-setup-guide.md
 #### M1/M2
-- STUDENT NAME: LINK TO GUIDE
+- TEMPLATE [Student Name: link to guide]
 - Yuchen Wang https://github.com/YuchenWang0303/Documentation-of-M1-MacBook-to-use-QT-PY-2040-.git
 ### Linux
 #### Ubuntu
-- STUDENT NAME: LINK TO GUIDE
+- TEMPLATE [Student Name: link to guide]
 ### Other...
