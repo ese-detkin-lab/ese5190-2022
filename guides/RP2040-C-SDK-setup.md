@@ -16,7 +16,7 @@
 - Soumya Ranjan Dash: https://github.com/unlim-int-soumya/-Lab-2-SETUP-GUIDE/blob/main/README.md
 - Satyajeet Das: https://github.com/satyajeetburla/-Lab-2-SETUP-GUIDE
 - Yuxuan Li: https://github.com/Yuxuan-Li295/ese5190-2022-lab2-into-the-void-star
-- Michael Peters: https://github.com/mvpeters/ESE-5190-Guides/blob/main/ESE5190%20Lab2%20SDK%20Setup%20Guide/.md
+- Michael Peters: https://github.com/mvpeters/ESE-5190-Guides/blob/main/ESE5190-Lab2-Setup-Windows.md
 #### WSL (Windows Subsystem for Linux)
 - TEMPLATE [Student Name: link to guide]
 ### Mac
