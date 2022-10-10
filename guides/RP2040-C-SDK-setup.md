@@ -29,6 +29,7 @@
 - Yuchen Wang https://github.com/YuchenWang0303/Documentation-of-M1-MacBook-to-use-QT-PY-2040-.git
 - Ze Li https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/README.md
 ### Linux
+- Minghui Ni https://github.com/minghuin/ESE519_General/blob/main/guide_from_zero_to_hello_world.md
 #### Ubuntu
 - TEMPLATE [Student Name: link to guide]
 
