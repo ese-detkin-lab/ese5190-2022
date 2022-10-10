@@ -21,6 +21,7 @@
 - Ronil Synghal: https://github.com/ronils428/ese519-notes/blob/main/lab2-setup-guide.md
 #### M1/M2
 - STUDENT NAME: LINK TO GUIDE
+- Yuchen Wang https://github.com/YuchenWang0303/Documentation-of-M1-MacBook-to-use-QT-PY-2040-.git
 ### Linux
 #### Ubuntu
 - STUDENT NAME: LINK TO GUIDE
