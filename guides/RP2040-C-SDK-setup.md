@@ -12,7 +12,7 @@
 
 ### Windows
 #### Native
-- STUDENT NAME: LINK TO GUIDE
+- SATYAJEET DAS: [LINK TO GUIDE](https://github.com/satyajeetburla/-Lab-2-SETUP-GUIDE)
 #### WSL (Windows Subsystem for Linux)
 - STUDENT NAME: LINK TO GUIDE
 ### Mac
