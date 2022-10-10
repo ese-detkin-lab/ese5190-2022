@@ -12,7 +12,7 @@
 
 ### Windows
 #### Native
-- STUDENT NAME: LINK TO GUIDE
+- Yuxuan Li: https://github.com/Yuxuan-Li295/ese5190-2022-lab2-into-the-void-star?organization=Yuxuan-Li295&organization=Yuxuan-Li295
 #### WSL (Windows Subsystem for Linux)
 - STUDENT NAME: LINK TO GUIDE
 ### Mac
