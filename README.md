@@ -7,7 +7,7 @@ Shuhan Qian
   
 Part1: Installing Toolchain
 1.Get a exe ending with -arm-none-eabi.exe.   
-&nbsp;Note: tick the Add to Path choice during the installment so that use complier directly.  
+&nbsp;&nbsp;Note: tick the Add to Path choice during the installment so that use complier directly.  
 
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/64452307/194979586-8907cf9f-073b-4196-b197-095b9ea448b5.png">
 
