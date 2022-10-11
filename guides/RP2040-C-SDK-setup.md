@@ -15,6 +15,8 @@
 - TEMPLATE [Student Name: link to guide]
 - Soumya Ranjan Dash: https://github.com/unlim-int-soumya/-Lab-2-SETUP-GUIDE/blob/main/README.md
 - Satyajeet Das: https://github.com/satyajeetburla/-Lab-2-SETUP-GUIDE
+- Yuxuan Li: https://github.com/Yuxuan-Li295/ese5190-2022-lab2-into-the-void-star
+- Prateek Bashista: https://github.com/prateekbashista/ESE-5190-Documents/blob/3d5c3d6a5806e3fdfa89f21ee5fef3b42f634912/Setup_Guide_Prateek_Bashista.md
 - Yuxuan Li: https://github.com/Yuxuan-Li295/ese519_lab2_setup
 - Michael Peters: https://github.com/mvpeters/ESE-5190-Guides/blob/main/ESE5190-Lab2-Setup-Windows.md
 - Joyendra Roy Biswas: https://github.com/joyendra/ESE519-Lab2-intoTheVoid/blob/main/README.md
