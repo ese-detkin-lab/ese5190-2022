@@ -17,6 +17,7 @@
 - Satyajeet Das: https://github.com/satyajeetburla/-Lab-2-SETUP-GUIDE
 - Yuxuan Li: https://github.com/Yuxuan-Li295/ese519_lab2_setup
 - Michael Peters: https://github.com/mvpeters/ESE-5190-Guides/blob/main/ESE5190-Lab2-Setup-Windows.md
+- Joyendra Roy Biswas: https://github.com/joyendra/ESE519-Lab2-intoTheVoid/blob/main/README.md
 - Shu Xu: https://github.com/shux3/ese5190_lab2_setups/blob/main/README.md
 - Chenwei Tang: https://github.com/Chenwei-Tang/ese5190-lab2/blob/main/RP2040-C-SDK-setup.md
 - Zeyu Gu: https://github.com/zgu74/Setup-Guide.git
