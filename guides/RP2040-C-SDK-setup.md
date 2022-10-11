@@ -29,6 +29,7 @@
 - Shu Xu: https://github.com/shux3/ese5190_lab2_setups/blob/main/README.md
 - Chenwei Tang: https://github.com/Chenwei-Tang/ese5190-lab2/blob/main/RP2040-C-SDK-setup.md
 - Zeyu Gu: https://github.com/zgu74/Setup-Guide.git
+- sudong wang: https://github.com/sudong-wang/ese5190-lab2/blob/main/README.md
 #### WSL (Windows Subsystem for Linux)
 - TEMPLATE [Student Name: link to guide]
 - Haoze Wu: https://github.com/TomGoh/ese5190-logs/blob/main/lab2-sdk-setup-guide-wsl.md
