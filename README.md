@@ -6,3 +6,4 @@ ESE 5190: Intro to Embedded Systems
 
 #### Class wiki
 [`RP2040 setup guides`](https://github.com/ese-detkin-lab/ese5190-2022/blob/main/guides/RP2040-C-SDK-setup.md)
+nmn
