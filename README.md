@@ -24,6 +24,7 @@ Note: tick the Add to Path choice during the installment so that use complier di
 -Testing tools for core features
 -C++ Address sanitizer
 -C++ make tools for CMake
+
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/64452307/194979631-e92b2a5e-bf05-47fb-acde-a16aad4f289f.png">
 
 4. Python 3.10 install
@@ -50,6 +51,10 @@ Firstly, you need to enter a code in the terminal to open VScode. Then you shoul
 
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/64452307/194979759-b4e5c3c4-1542-4b6a-bb45-d902efd0bf68.png">
 
+<img width="1267" alt="image" src="https://user-images.githubusercontent.com/64452307/194980200-12dcf3b6-1074-4600-8ca8-d77be9d9c471.png">
+
 3.Finally, its time for building the hello world target: Click Files at left top and choose open folders to open the pico-examples folder, and choose the complier as GCC for arm-none-eabi12.2. Then you can click the build button at bottom to generate uf2 files. Drag uf2 to your board, then you can find the hello world is output on your terminal!
+
+<img width="881" alt="image" src="https://user-images.githubusercontent.com/64452307/194980115-7653be16-1aed-4abb-8ab8-1e36ed141a7a.png">
 
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/64452307/194979770-2aecdddd-5c06-440b-bd43-800b97a11b61.png">
