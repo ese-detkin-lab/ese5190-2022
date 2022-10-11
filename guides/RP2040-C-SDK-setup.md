@@ -27,6 +27,7 @@
 - Shu Xu: https://github.com/shux3/ese5190_lab2_setups/blob/main/README.md
 - Chenwei Tang: https://github.com/Chenwei-Tang/ese5190-lab2/blob/main/RP2040-C-SDK-setup.md
 - Zeyu Gu: https://github.com/zgu74/Setup-Guide.git
+- sudong wang: https://github.com/sudong-wang/ese5190-lab2/blob/main/README.md
 #### WSL (Windows Subsystem for Linux)
 - TEMPLATE [Student Name: link to guide]
 - Haoze Wu: https://github.com/TomGoh/ese5190-logs/blob/main/lab2-sdk-setup-guide-wsl.md
@@ -43,7 +44,6 @@
 - TEMPLATE [Student Name: link to guide]
 - Yuchen Wang https://github.com/YuchenWang0303/Documentation-of-M1-MacBook-to-use-QT-PY-2040-.git
 - Ze Li https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/README.md
-- Xuanbiao Zhu: https://github.com/AkoZhu/ESE5190-Lab2SetUpLogs.git
 - Xingqi Pan https://github.com/anniepan8215/ESE519_Lab2_setup.git
 - Yuxin Wang https://github.com/Ariiees/Pico-C-SDK-set-up-on-mac
 - Yizhe Wang: https://github.com/ApolloW1/ESE519_lab2/blob/main/SetupGuide.md
