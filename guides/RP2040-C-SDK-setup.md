@@ -20,6 +20,7 @@
 #### WSL (Windows Subsystem for Linux)
 - TEMPLATE [Student Name: link to guide]
 - Haoze Wu: https://github.com/TomGoh/ese5190-logs/blob/main/lab2-sdk-setup-guide-wsl.md
+- Arnav Gadre: https://github.com/arnavgadre/ESE5190_Lab2_Guide/blob/main/Initial_Setup_Guide.md | https://github.com/arnavgadre/ESE5190_Lab2_Guide/blob/main/SDK_and_HelloWorld.md
 ### Mac
 #### x86
 - TEMPLATE [Student Name: link to guide]
