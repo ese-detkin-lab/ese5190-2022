@@ -30,6 +30,6 @@
 - Ze Li https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/README.md
 ### Linux
 #### Ubuntu
-- TEMPLATE [Student Name: link to guide]
+- Praveen Raj Uma Maheswari Shyam Sundar: https://github.com/Praveen-Raj-u-s/ese5190-2022-lab2-into-the-void-star/blob/4e9c1377573d8c38ce3b4fc853334a293ca664b3/README.md ; https://github.com/Praveen-Raj-u-s/lab2-setup.git
 
 ### Other...
