@@ -21,6 +21,7 @@
 - Prateek Bashista: https://github.com/prateekbashista/ESE-5190-Documents/blob/3d5c3d6a5806e3fdfa89f21ee5fef3b42f634912/Setup_Guide_Prateek_Bashista.md
 - Yuxuan Li: https://github.com/Yuxuan-Li295/ese519_lab2_setup
 - Michael Peters: https://github.com/mvpeters/ESE-5190-Guides/blob/main/ESE5190-Lab2-Setup-Windows.md
+- Siyun Wang: https://github.com/Phoebe-www/ESE519Lab2
 - Joyendra Roy Biswas: https://github.com/joyendra/ESE519-Lab2-intoTheVoid/blob/main/README.md
 - Shu Xu: https://github.com/shux3/ese5190_lab2_setups/blob/main/README.md
 - Chenwei Tang: https://github.com/Chenwei-Tang/ese5190-lab2/blob/main/RP2040-C-SDK-setup.md
