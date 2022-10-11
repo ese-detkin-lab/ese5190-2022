@@ -11,9 +11,11 @@ I used Windows 11 OS for setup. What I need to do is to follow the guide and com
 Part1: Installing Toolchain
 1.Get a exe ending with -arm-none-eabi.exe. 
 Note: tick the Add to Path choice during the installment so that use complier directly.
+
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/64452307/194979586-8907cf9f-073b-4196-b197-095b9ea448b5.png">
 
 2.Cmake installment: Also, remember to choose add to path during your installment.
+
 <img width="358" alt="image" src="https://user-images.githubusercontent.com/64452307/194979606-bec01abd-977a-4d14-a321-f27b5d51841f.png">
 
 3.Installing build tools in Visual Studio 2022, following components are necessary under desktop C++ development:
@@ -26,6 +28,7 @@ Note: tick the Add to Path choice during the installment so that use complier di
 
 4. Python 3.10 install
 During the installation, ensure that it’s installed 'for all users' and add Python 3.10 to the system PATH when prompted by the installer. You should additionally disable the MAX_PATH length limit when prompted at the end of the Python installation
+
 <img width="383" alt="image" src="https://user-images.githubusercontent.com/64452307/194979668-19bb029b-3d76-4ff7-ac2d-fb9132eff199.png">
 
 5. Installing Git:
@@ -39,11 +42,14 @@ C:\Users\pico\Downloads> git clone -b master https://github.com/raspberrypi/pico
 C:\Users\pico\Downloads> cd pico-sdk C:\Users\pico\Downloads\pico-sdk> git submodule update --init 
 C:\Users\pico\Downloads\pico-sdk> cd .. 
 C:\Users\pico\Downloads> git clone-b master https://github.com/raspberrypi/pico-examples.git
-<img width="416" alt="image" src="https://user-images.githubusercontent.com/64452307/194979759-b4e5c3c4-1542-4b6a-bb45-d902efd0bf68.png">
 
 2.Use Visual Studio Developer command to open the VScode: then it is time for setting environment for SDK and build hello.c by CMake tools. 
 Firstly, you need to enter a code in the terminal to open VScode. Then you should install necessary extensions in VS market space: Cmake tools, before modifying its settings. 
 -scroll down to "Cmake: Configure Environment". Click on "Add Item" and set the PICO_SDK_PATH to be ..\..\pico-sd
 -scroll down to "Cmake: Generator" and enter "NMake Makefiles" into the box.
+
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/64452307/194979759-b4e5c3c4-1542-4b6a-bb45-d902efd0bf68.png">
+
 3.Finally, its time for building the hello world target: Click Files at left top and choose open folders to open the pico-examples folder, and choose the complier as GCC for arm-none-eabi12.2. Then you can click the build button at bottom to generate uf2 files. Drag uf2 to your board, then you can find the hello world is output on your terminal!
+
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/64452307/194979770-2aecdddd-5c06-440b-bd43-800b97a11b61.png">
