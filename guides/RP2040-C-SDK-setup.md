@@ -13,6 +13,7 @@
 ### Windows
 #### Native
 - STUDENT NAME: LINK TO GUIDE
+- Lihong Zhao: https://github.com/lihzhao14/ese5190_pico_setup_guide
 #### WSL (Windows Subsystem for Linux)
 - STUDENT NAME: LINK TO GUIDE
 ### Mac
