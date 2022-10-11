@@ -28,6 +28,7 @@
 - TEMPLATE [Student Name: link to guide]
 - Yuchen Wang https://github.com/YuchenWang0303/Documentation-of-M1-MacBook-to-use-QT-PY-2040-.git
 - Ze Li https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/README.md
+- Xingqi Pan https://github.com/anniepan8215/ESE519_Lab2_setup.git
 - Yuxin Wang https://github.com/Ariiees/Pico-C-SDK-set-up-on-mac
 - Yizhe Wang: https://github.com/ApolloW1/ESE519_lab2/blob/main/SetupGuide.md
 ### Linux
