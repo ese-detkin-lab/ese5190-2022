@@ -38,6 +38,7 @@
 #### x86
 - TEMPLATE [Student Name: link to guide]
 - Ronil Synghal: https://github.com/ronils428/ese519-notes/blob/main/lab2-setup-guide.md
+- Zhijing Yao: https://github.com/ZhijingY/ESE519-lab2/blob/main/README.md
 - Yu Feng: https://github.com/skyfall88888/ESE519-Lab2-Setup-Guide
 #### M1/M2
 - TEMPLATE [Student Name: link to guide]
