@@ -21,6 +21,7 @@
 - Prateek Bashista: https://github.com/prateekbashista/ESE-5190-Documents/blob/3d5c3d6a5806e3fdfa89f21ee5fef3b42f634912/Setup_Guide_Prateek_Bashista.md
 - Yuxuan Li: https://github.com/Yuxuan-Li295/ese519_lab2_setup
 - Michael Peters: https://github.com/mvpeters/ESE-5190-Guides/blob/main/ESE5190-Lab2-Setup-Windows.md
+- Sizhe Ma: https://github.com/MaxMa6150/ESE519_Lab2_Setup_Windows/blob/main/README.md
 - Shantanu Sampath: https://github.com/Shantykins/ese5190-notes/blob/main/README.md
 - Xingjian Chen: https://github.com/AndYmeisterrrrr/Xingjian-Chen-setup-guide-ESE519/blob/main/README.md
 - Siyun Wang: https://github.com/Phoebe-www/ESE519Lab2
