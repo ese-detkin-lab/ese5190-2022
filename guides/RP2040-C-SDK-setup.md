@@ -53,6 +53,7 @@
 ### Linux
 #### Ubuntu
 - TEMPLATE [Student Name: link to guide]
+- Praveen Raj Uma Maheswari Shyam Sundar: https://github.com/Praveen-Raj-u-s/ese5190-2022-lab2-into-the-void-star ; https://github.com/Praveen-Raj-u-s/lab2-setup/blob/6a90e80b347982f728adbf83034db18947543f48/README.md
 - Sai Koushik: https://github.com/koushik-sss/ESE-5190-Lab-2-Setup-Guide-Sai/blob/main/README.md
 - Minghui Ni: https://github.com/minghuin/ESE519_General/blob/main/guide_from_zero_to_hello_world.md
 ### Other...
