@@ -17,6 +17,7 @@
 - Satyajeet Das: https://github.com/satyajeetburla/-Lab-2-SETUP-GUIDE
 - Yuxuan Li: https://github.com/Yuxuan-Li295/ese519_lab2_setup
 - Michael Peters: https://github.com/mvpeters/ESE-5190-Guides/blob/main/ESE5190-Lab2-Setup-Windows.md
+- Joyendra Roy Biswas: https://github.com/joyendra/ESE519-Lab2-intoTheVoid/blob/main/README.md
 #### WSL (Windows Subsystem for Linux)
 - TEMPLATE [Student Name: link to guide]
 - Haoze Wu: https://github.com/TomGoh/ese5190-logs/blob/main/lab2-sdk-setup-guide-wsl.md
