@@ -36,7 +36,6 @@
 - Ruturaj A. Nanoti: [Basic Environment Setup (WSL) Guide](https://github.com/Ruturajn/ESE5190-setup-guide/blob/main/Basic_Setup.md) | [SDK Installation Guide](https://github.com/Ruturajn/ESE5190-setup-guide/blob/main/SDK_Setup.md) | [Hello World USB Example Guide](https://github.com/Ruturajn/ESE5190-setup-guide/blob/main/Hello_World.md)
 - Siddhant Mathur : https://github.com/Siddmathur14/ESE_5190_setup_guide
 - Saurabh Parulekar: https://github.com/saurabhparulekar24/ESE5190_LAB2_SETUPGUIDE/blob/main/README.md
-- Sahil Mahendra Mangaonkar: https://github.com/Sahil-M-M/Pico-SDK-Guide
 ### Mac
 - Meiyi Yu https://github.com/Thea-E/ese5190-2022-lab2-into-the-void-star/blob/main/Lab2-Tutorial.md
 #### x86
