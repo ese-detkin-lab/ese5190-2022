@@ -32,5 +32,5 @@
 ### Linux
 #### Ubuntu
 - TEMPLATE [Student Name: link to guide]
-
+- Minghui Ni: https://github.com/minghuin/ESE519_General/blob/main/guide_from_zero_to_hello_world.md
 ### Other...
