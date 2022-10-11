@@ -34,12 +34,12 @@ Part1: Installing Toolchain
 <img width="347" alt="image" src="https://user-images.githubusercontent.com/64452307/194979696-fa169b86-b05a-4f1c-9316-6c69bfd393c7.png">
 <img width="347" alt="image" src="https://user-images.githubusercontent.com/64452307/194979724-7654a640-f26a-459a-8cd7-d6ebfadd37fd.png">
 
-Part2: SDK Environment Setup
+Part2: SDK Environment Setup  
 &nbsp;1.Enter these command on the terminal to fetch pico-sdk and pico examples files from Github Repository: 
-&nbsp;&nbsp;C:\Users\pico\Downloads> git clone -b master https://github.com/raspberrypi/pico-sdk.git 
-&nbsp;&nbsp;C:\Users\pico\Downloads> cd pico-sdk C:\Users\pico\Downloads\pico-sdk> git submodule update --init 
-&nbsp;&nbsp;C:\Users\pico\Downloads\pico-sdk> cd .. 
-&nbsp;&nbsp;C:\Users\pico\Downloads> git clone-b master https://github.com/raspberrypi/pico-examples.git
+&nbsp;&nbsp;C:\Users\pico\Downloads> git clone -b master https://github.com/raspberrypi/pico-sdk.git   
+&nbsp;&nbsp;C:\Users\pico\Downloads> cd pico-sdk C:\Users\pico\Downloads\pico-sdk> git submodule update --init   
+&nbsp;&nbsp;C:\Users\pico\Downloads\pico-sdk> cd ..   
+&nbsp;&nbsp;C:\Users\pico\Downloads> git clone-b master https://github.com/raspberrypi/pico-examples.git  
 
 2.Use Visual Studio Developer command to open the VScode: then it is time for setting environment for SDK and build hello.c by CMake tools. 
 &nbsp;Firstly, you need to enter a code in the terminal to open VScode. Then you should install necessary extensions in VS market space: Cmake tools, &nbsp;before modifying its settings. 
