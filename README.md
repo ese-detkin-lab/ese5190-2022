@@ -1,12 +1,9 @@
-ESE 5190: Intro to Embedded Systems
 
-#### Lab repos
-1. [`firefly`](https://github.com/ese-detkin-lab/ese5190-2022-lab1-firefly)
-2. [`into the (void *)`](https://github.com/ese-detkin-lab/ese5190-2022-lab2-into-the-void-star)
+Shuhan Qian
+  https://www.linkedin.com/in/shuhan-qian-53014524a/
+  email:qiansh@seas.upenn.edu
+  Tested on: XiaoXinPro16 Lenovo, AMD Ryzen 7 5800H(3.2GHZ)
 
-#### Class wiki
-[`RP2040 setup guides`](https://github.com/ese-detkin-lab/ese5190-2022/blob/main/guides/RP2040-C-SDK-setup.md)
-I used Windows 11 OS for setup. What I need to do is to follow the guide and complete following toolchains download and installment
   
 Part1: Installing Toolchain
 1.Get a exe ending with -arm-none-eabi.exe. 
