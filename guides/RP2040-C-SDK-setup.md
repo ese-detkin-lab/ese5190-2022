@@ -28,6 +28,7 @@
 - TEMPLATE [Student Name: link to guide]
 - Yuchen Wang https://github.com/YuchenWang0303/Documentation-of-M1-MacBook-to-use-QT-PY-2040-.git
 - Ze Li https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/README.md
+- Ying Xu: https://github.com/real-YingXu/ESE519lab-guide/blob/main/README.md
 ### Linux
 #### Ubuntu
 - TEMPLATE [Student Name: link to guide]
