@@ -12,6 +12,8 @@
 
 ### Windows
 #### Native
+- STUDENT NAME: LINK TO GUIDE
+- Lihong Zhao: https://github.com/lihzhao14/ese5190_pico_setup_guide
 - TEMPLATE [Student Name: link to guide]
 - Soumya Ranjan Dash: https://github.com/unlim-int-soumya/-Lab-2-SETUP-GUIDE/blob/main/README.md
 - Satyajeet Das: https://github.com/satyajeetburla/-Lab-2-SETUP-GUIDE
