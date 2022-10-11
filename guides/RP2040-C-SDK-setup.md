@@ -17,6 +17,7 @@
 - Satyajeet Das: https://github.com/satyajeetburla/-Lab-2-SETUP-GUIDE
 - Yuxuan Li: https://github.com/Yuxuan-Li295/ese519_lab2_setup
 - Michael Peters: https://github.com/mvpeters/ESE-5190-Guides/blob/main/ESE5190-Lab2-Setup-Windows.md
+- Chenwei Tang: https://github.com/Chenwei-Tang/ese5190-lab2/blob/main/RP2040-C-SDK-setup.md
 - Zeyu Gu: https://github.com/zgu74/Setup-Guide.git
 #### WSL (Windows Subsystem for Linux)
 - TEMPLATE [Student Name: link to guide]
