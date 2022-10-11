@@ -1,9 +1,33 @@
-ESE 5190: Intro to Embedded Systems
+University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2
 
-#### Lab repos
-1. [`firefly`](https://github.com/ese-detkin-lab/ese5190-2022-lab1-firefly)
-2. [`into the (void *)`](https://github.com/ese-detkin-lab/ese5190-2022-lab2-into-the-void-star)
+    Chenye Xiong
+        Email: xcyxcy@seas.upenn.edu
+    Tested on: MacBook Pro, 13inch, 2022, macOS Monterey 12.6, Apple M2
+# Setup Guide for Pico
+1. Installing the Toolchain and Visual Studio Code
+3. Building with CMake Tools
+4. Connecting to the serial console on Mac
+5. Connecting with screen
+6. Saying "Hello World"
+## Step1 Installing the Toolchain and Visual Studio Code
+- Intsalling Homebrew
+Typing in the terminal:
 
-#### Class wiki
-[`RP2040 setup guides`](https://github.com/ese-detkin-lab/ese5190-2022/blob/main/guides/RP2040-C-SDK-setup.md)
-nmn
+```
+$ /bin/bash -c "$(curl -fsSL
+https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+```
+
+- Installing the toolchain
+Typing in the terminal
+
+```
+$ brew install cmake
+
+$ brew tap ArmMbed/homebrew-formulae
+
+$ brew install arm-none-eabi-gcc
+```
+
+- Downloading the macOS version Visual Studio Code
+##
