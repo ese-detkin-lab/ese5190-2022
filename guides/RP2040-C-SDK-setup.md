@@ -24,6 +24,7 @@
 #### x86
 - TEMPLATE [Student Name: link to guide]
 - Ronil Synghal: https://github.com/ronils428/ese519-notes/blob/main/lab2-setup-guide.md
+- Zhijing Yao: https://github.com/ZhijingY/ESE519-lab2/blob/main/README.md
 #### M1/M2
 - TEMPLATE [Student Name: link to guide]
 - Yuchen Wang https://github.com/YuchenWang0303/Documentation-of-M1-MacBook-to-use-QT-PY-2040-.git
