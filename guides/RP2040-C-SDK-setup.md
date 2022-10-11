@@ -31,5 +31,6 @@
 ### Linux
 #### Ubuntu
 - TEMPLATE [Student Name: link to guide]
+- Sai Koushik: https://github.com/koushik-sss/ESE-5190-Lab-2-Setup-Guide-Sai/blob/main/README.md
 
 ### Other...
