@@ -1,36 +1,36 @@
 
-Shuhan Qian
-  https://www.linkedin.com/in/shuhan-qian-53014524a/
-  email:qiansh@seas.upenn.edu
-  Tested on: XiaoXinPro16 Lenovo, AMD Ryzen 7 5800H(3.2GHZ)
+Shuhan Qian  
+  https://www.linkedin.com/in/shuhan-qian-53014524a/  
+  email:qiansh@seas.upenn.edu  
+  Tested on: XiaoXinPro16 Lenovo, AMD Ryzen 7 5800H(3.2GHZ)  
 
   
 Part1: Installing Toolchain
-1.Get a exe ending with -arm-none-eabi.exe. 
-Note: tick the Add to Path choice during the installment so that use complier directly.
+1.Get a exe ending with -arm-none-eabi.exe.   
+Note: tick the Add to Path choice during the installment so that use complier directly.  
 
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/64452307/194979586-8907cf9f-073b-4196-b197-095b9ea448b5.png">
 
-2.Cmake installment: Also, remember to choose add to path during your installment.
+2.Cmake installment: Also, remember to choose add to path during your installment.  
 
 <img width="358" alt="image" src="https://user-images.githubusercontent.com/64452307/194979606-bec01abd-977a-4d14-a321-f27b5d51841f.png">
 
-3.Installing build tools in Visual Studio 2022, following components are necessary under desktop C++ development:
--Windows 10 SDK
--MSVC 143
--Testing tools for core features
--C++ Address sanitizer
--C++ make tools for CMake
+3.Installing build tools in Visual Studio 2022, following components are necessary under desktop C++ development:  
+-Windows 10 SDK  
+-MSVC 143  
+-Testing tools for core features  
+-C++ Address sanitizer  
+-C++ make tools for CMake  
 
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/64452307/194979631-e92b2a5e-bf05-47fb-acde-a16aad4f289f.png">
 
-4. Python 3.10 install
+4. Python 3.10 install  
 During the installation, ensure that it’s installed 'for all users' and add Python 3.10 to the system PATH when prompted by the installer. You should additionally disable the MAX_PATH length limit when prompted at the end of the Python installation
 
 <img width="383" alt="image" src="https://user-images.githubusercontent.com/64452307/194979668-19bb029b-3d76-4ff7-ac2d-fb9132eff199.png">
 
 5. Installing Git:
-Note!!!: Remember to tick the checkbox to allow Git to be used from 3rd-party software and, unless you have a strong reason otherwise, when installing Git you should also check the box "Checkout as is, commit as-is", select "Use Windows' default console window", and "Enable experimental support for pseudo consoles" during the installation process.
+Note!!!: Remember to tick the checkbox to allow Git to be used from 3rd-party software and, unless you have a strong reason otherwise, when installing Git you should also check the box "Checkout as is, commit as-is", select "Use Windows' default console window", and "Enable experimental support for pseudo consoles" during the installation process.  
 <img width="347" alt="image" src="https://user-images.githubusercontent.com/64452307/194979696-fa169b86-b05a-4f1c-9316-6c69bfd393c7.png">
 <img width="347" alt="image" src="https://user-images.githubusercontent.com/64452307/194979724-7654a640-f26a-459a-8cd7-d6ebfadd37fd.png">
 
