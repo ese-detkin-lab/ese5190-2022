@@ -33,6 +33,7 @@
 #### WSL (Windows Subsystem for Linux)
 - TEMPLATE [Student Name: link to guide]
 - Haoze Wu: https://github.com/TomGoh/ese5190-logs/blob/main/lab2-sdk-setup-guide-wsl.md
+- Siddhant Mathur : https://github.com/Siddmathur14/ESE_5190_setup_guide
 - Nikola Obradovic: https://github.com/ndobrad/ese5190-tools/blob/main/setup/qtpy_rp2040_setup.md
 - Saurabh Parulekar: https://github.com/saurabhparulekar24/ESE5190_LAB2_SETUPGUIDE/blob/main/README.md
 - Arnav Gadre: https://github.com/arnavgadre/ESE5190_Lab2_Guide/blob/main/Initial_Setup_Guide.md | https://github.com/arnavgadre/ESE5190_Lab2_Guide/blob/main/SDK_and_HelloWorld.md
