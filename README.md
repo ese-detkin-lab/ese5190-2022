@@ -6,8 +6,7 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2
 # Setup Guide for Pico
 1. Installing the Toolchain and Visual Studio Code
 3. Building with CMake Tools
-4. Connecting to the serial console on Mac
-5. Connecting with screen
+4. Connecting to the serial console on Mac and connecting with screen
 6. Saying "Hello World"
 ## Step1 Installing the Toolchain and Visual Studio Code
 - Intsalling Homebrew
@@ -36,7 +35,7 @@ These are the printscreens of terminal
 
 Choosing the macOS version
 
-## Building with CMake Tools
+## Step2 Building with CMake Tools
 - Installing the Cmake Tools extension
 
 Click on the Extensions icon in the left-hand toolbar (or type Cmd + Shift + X), and search for "CMake Tools" and click on the entry in the list, and then click on the install button.
@@ -106,7 +105,7 @@ Then scoll up to the "Cmake:Build Environment",and add PICO_SDK_PATH to Item and
 The printscreen of VSCode:
 <div align=center><img width="500" height="200" src="https://github.com/xcyxcyxcyxcy/ese5190-2022/blob/main/images/environment.png"/></div>
 
-5.Building
+- Building
 
 Now go to the File menu and click on "Add Folder to Workspace..." and navigate to pico-examples repo and click "Okay":
 <div align=center><img width="700" height="400" src="https://github.com/xcyxcyxcyxcy/ese5190-2022/blob/main/images/add%20folder.png"/></div>
@@ -122,3 +121,49 @@ This will produce elf, bin, and uf2 targets, you can find these in the hello_wor
 <div align=center><img width="600" height="300" src="https://github.com/xcyxcyxcyxcy/ese5190-2022/blob/main/images/usb.png"/></div>
 
 The UF2 binaries can be dragged-and-dropped directly onto the board attached to your computer using USB.
+
+## Step3 Connecting to the serial console on Mac
+
+This is a part regarding the prelab2.
+- Finding out which serial port your board is using
+
+1. Opening Terminal and typing the following in terminal without the board plugged in:
+
+```
+$ ls /dev/tty.*
+```
+This will show us the current serial connections.
+
+2. Pluging your board and typing the following in terminal:
+
+```
+$ ls /dev/tty.*
+```
+This will show you the current serial connections, which will now include your board.
+
+The printscreen:
+<div align=center><img width="700" height="500" src="https://github.com/xcyxcyxcyxcy/ese5190-2022/blob/main/images/port.png"/></div>
+
+The tty.usbmodem1401 part of this listing is the name the example board is using. 
+
+-Connnecting with screen
+
+The screen command is included with MacOS and it can help us inspect the output. To connect to the serial console, use Terminal and type the following command:
+
+```
+$ screen /dev/tty.usbmodem1401 115200
+```
+The baud rate is the speed in bits per second that data is sent over the serial connection. In this case, the speed required by the board is 115200 bits per second. Press enter to run the command. It will open in the same window. If no code is running, the window will be blank. Otherwise, you'll see the output of your code.
+
+## Saying "Hello World"
+- Reseting the QT Py RP2040
+
+Holding the RST bottun, press the BOOT button and then release it, the name of the board becomes RP1-RP2:
+
+<div align=center><img width="200" height="200" src="https://github.com/xcyxcyxcyxcy/ese5190-2022/blob/main/images/NAME.png"/></div>
+
+Then drag and drop the file "hello_usb.uf2" in the folder hello_world in the folder build, and use the screen command mentioned before, we can see the output:
+
+<div align=center><img width="400" height="300" src="https://github.com/xcyxcyxcyxcy/ese5190-2022/blob/main/images/hello.png"/></div>
+
+Then the setup process is finished!!
