@@ -105,3 +105,20 @@ Then scoll up to the "Cmake:Build Environment",and add PICO_SDK_PATH to Item and
 
 The printscreen of VSCode:
 <div align=center><img width="500" height="200" src="https://github.com/xcyxcyxcyxcy/ese5190-2022/blob/main/images/environment.png"/></div>
+
+5.Building
+
+Now go to the File menu and click on "Add Folder to Workspace..." and navigate to pico-examples repo and click "Okay":
+<div align=center><img width="700" height="400" src="https://github.com/xcyxcyxcyxcy/ese5190-2022/blob/main/images/add%20folder.png"/></div>
+
+Select "GCC for arm-none- eabi" for your compiler and click on the "Build" button in the blue button bar:
+ <div align=center><img width="400" height="50" src="https://github.com/xcyxcyxcyxcy/ese5190-2022/blob/main/images/Build%20and%20GCC.png"/></div>
+ 
+The output:
+<div align=center><img width="500" height="200" src="https://github.com/xcyxcyxcyxcy/ese5190-2022/blob/main/images/output.png"/></div>
+
+This will produce elf, bin, and uf2 targets, you can find these in the hello_world/serial and hello_world/usb directories inside the newly created build directory:
+<div align=center><img width="600" height="300" src="https://github.com/xcyxcyxcyxcy/ese5190-2022/blob/main/images/serial.png"/></div>
+<div align=center><img width="600" height="300" src="https://github.com/xcyxcyxcyxcy/ese5190-2022/blob/main/images/usb.png"/></div>
+
+The UF2 binaries can be dragged-and-dropped directly onto the board attached to your computer using USB.
