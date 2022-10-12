@@ -4,7 +4,7 @@
 ### Mac
 #### x86
 #### M1/M2
-- Chenye Xiong https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/README.md
+- Chenye Xiong https://github.com/xcyxcyxcyxcy/ese5190-2022/blob/main/README.md
 ### Linux
 #### Ubuntu
 ### Other...
