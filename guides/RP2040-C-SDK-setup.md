@@ -30,6 +30,8 @@
 - Zeyu Gu: https://github.com/zgu74/Setup-Guide.git
 - Qi Xue: https://github.com/sueqixue/ese5190-2022-lab2-2A/blob/main/README.md
 - Yixuan Wang: https://github.com/Sharonun/519lab2-Setup-Guide/blob/main/README.md
+- Yash Budhe: https://github.com/yash-mb/ESE-519_Setup_Guide/blob/236bfbff5899cd119b4d5523495c8d8bdbe62d89/README.md
+
 #### WSL (Windows Subsystem for Linux)
 - TEMPLATE [Student Name: link to guide]
 - Arnav Gadre: https://github.com/arnavgadre/ESE5190_Lab2_Guide/blob/main/Initial_Setup_Guide.md | https://github.com/arnavgadre/ESE5190_Lab2_Guide/blob/main/SDK_and_HelloWorld.md
