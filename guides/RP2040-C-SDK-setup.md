@@ -44,6 +44,8 @@
 - Ronil Synghal: https://github.com/ronils428/ese519-notes/blob/main/lab2-setup-guide.md
 - Yu Feng: https://github.com/skyfall88888/ESE519-Lab2-Setup-Guide
 - Zhijing Yao: https://github.com/ZhijingY/ESE519-lab2/blob/main/README.md
+- Yuan Chi: https://github.com/ChiYuan9/ESE5190-Lab2-Setup
+
 #### M1/M2
 - TEMPLATE [Student Name: link to guide]
 - Xingqi Pan https://github.com/anniepan8215/ESE519_Lab2_setup.git
