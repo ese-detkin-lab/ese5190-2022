@@ -28,6 +28,7 @@
 - Xingjian Chen: https://github.com/AndYmeisterrrrr/Xingjian-Chen-setup-guide-ESE519/blob/main/README.md
 - Yuxuan Li: https://github.com/Yuxuan-Li295/ese519_lab2_setup
 - Zeyu Gu: https://github.com/zgu74/Setup-Guide.git
+- Yixuan Wang: https://github.com/Sharonun/519lab2-Setup-Guide/blob/main/README.md
 #### WSL (Windows Subsystem for Linux)
 - TEMPLATE [Student Name: link to guide]
 - Arnav Gadre: https://github.com/arnavgadre/ESE5190_Lab2_Guide/blob/main/Initial_Setup_Guide.md | https://github.com/arnavgadre/ESE5190_Lab2_Guide/blob/main/SDK_and_HelloWorld.md
@@ -37,6 +38,7 @@
 - Siddhant Mathur : https://github.com/Siddmathur14/ESE_5190_setup_guide
 - Saurabh Parulekar: https://github.com/saurabhparulekar24/ESE5190_LAB2_SETUPGUIDE/blob/main/README.md
 - Sahil Mahendra Mangaonkar: https://github.com/Sahil-M-M/Pico-SDK-Guide
+- Amogh Gajare: https://github.com/amoghgajare/ESE5190_LAB2_SETUPGUIDE
 ### Mac
 - Meiyi Yu https://github.com/Thea-E/ese5190-2022-lab2-into-the-void-star/blob/main/Lab2-Tutorial.md
 #### x86
@@ -54,6 +56,7 @@
 - Yizhe Wang: https://github.com/ApolloW1/ESE519_lab2/blob/main/SetupGuide.md
 - Ze Li https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/README.md
 - Katrina Ji https://github.com/katrinaji/ese5190Lab2_SDKGuide.git
+- Xiayu Zeng https://github.com/Xiaayu/ESE519-Lab2-C-SDK-setup-on-mac
 ### Linux
 #### Ubuntu
 - TEMPLATE [Student Name: link to guide]
