@@ -36,6 +36,7 @@
 - Haoze Wu: https://github.com/TomGoh/ese5190-logs/blob/main/lab2-sdk-setup-guide-wsl.md
 - Nikola Obradovic: https://github.com/ndobrad/ese5190-tools/blob/main/setup/qtpy_rp2040_setup.md
 - Ruturaj A. Nanoti: [Basic Environment Setup (WSL) Guide](https://github.com/Ruturajn/ESE5190-setup-guide/blob/main/Basic_Setup.md) | [SDK Installation Guide](https://github.com/Ruturajn/ESE5190-setup-guide/blob/main/SDK_Setup.md) | [Hello World USB Example Guide](https://github.com/Ruturajn/ESE5190-setup-guide/blob/main/Hello_World.md)
+- Essa Alkhunayn : https://github.com/essaalk/ESE519_Lab2_SETUPGUIDE.git
 - Siddhant Mathur : https://github.com/Siddmathur14/ESE_5190_setup_guide
 - Saurabh Parulekar: https://github.com/saurabhparulekar24/ESE5190_LAB2_SETUPGUIDE/blob/main/README.md
 - Sahil Mahendra Mangaonkar: https://github.com/Sahil-M-M/Pico-SDK-Guide
