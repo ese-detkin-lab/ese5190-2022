@@ -53,6 +53,7 @@
 - Ying Xu: https://github.com/real-YingXu/ESE519lab-guide/blob/main/README.md
 - Yizhe Wang: https://github.com/ApolloW1/ESE519_lab2/blob/main/SetupGuide.md
 - Ze Li https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/README.md
+- Katrina Ji https://github.com/katrinaji/ese5190Lab2_SDKGuide.git
 ### Linux
 #### Ubuntu
 - TEMPLATE [Student Name: link to guide]
