@@ -40,6 +40,7 @@
 - Saurabh Parulekar: https://github.com/saurabhparulekar24/ESE5190_LAB2_SETUPGUIDE/blob/main/README.md
 - Sahil Mahendra Mangaonkar: https://github.com/Sahil-M-M/Pico-SDK-Guide
 - Amogh Gajare: https://github.com/amoghgajare/ESE5190_LAB2_SETUPGUIDE
+- Suraj Sree Balakrishna Marthy: https://github.com/SurajMarthy1001/ese_lab2a_guide_Suraj/blob/main/README.md
 ### Mac
 - Meiyi Yu https://github.com/Thea-E/ese5190-2022-lab2-into-the-void-star/blob/main/Lab2-Tutorial.md
 #### x86
