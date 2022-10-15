@@ -60,6 +60,7 @@
 - Ze Li https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/README.md
 - Katrina Ji https://github.com/katrinaji/ese5190Lab2_SDKGuide.git
 - Xiayu Zeng https://github.com/Xiaayu/ESE519-Lab2-C-SDK-setup-on-mac
+- Hao Pan https://github.com/ryanhpan/ese5190-2022-lab2-into-the-void-star/blob/main/RP2040-C-SDK-Setup.md
 ### Linux
 #### Ubuntu
 - TEMPLATE [Student Name: link to guide]
