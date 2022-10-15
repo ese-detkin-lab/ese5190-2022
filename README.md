@@ -66,3 +66,4 @@ Then click open. The UART output from the Raspberry Pi Pico will appear Terminal
 
 
 
+
