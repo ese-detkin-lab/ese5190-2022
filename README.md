@@ -1,11 +1,6 @@
-ESE 5190: Intro to Embedded Systems
+# ESE 5190-Lab2-Setup
+Name: Yihan Wang
 
-#### Lab repos
-1. [`firefly`](https://github.com/ese-detkin-lab/ese5190-2022-lab1-firefly)
-2. [`into the (void *)`](https://github.com/ese-detkin-lab/ese5190-2022-lab2-into-the-void-star)
-
-#### Class wiki
-[`RP2040 setup guides`](https://github.com/ese-detkin-lab/ese5190-2022/blob/main/guides/RP2040-C-SDK-setup.md)
 
 
 # Part 2:
@@ -39,13 +34,21 @@ Download the Visual Studio Code from: <br/>
 https://code.visualstudio.com/download
 <br/>
 Install the CMake Tools extension:<br/>
-Type (Ctrl + Shift + X), and search for "CMake Tools". Install CMake Tools and configure Cmake : Configure Environment as follow:
+
+Type (Ctrl + Shift + X), and search for "CMake Tools". Install CMake Tools 
+![s7](https://user-images.githubusercontent.com/113371324/195966339-d76ef7e2-9641-4eb0-9954-c9ba8655e459.png)
+
+and configure Cmake : Configure Environment as follow:
 ![s1](https://user-images.githubusercontent.com/113371324/195964834-e23c2a29-9e0c-475b-9e44-85c534594ee9.png)
+
 Also scroll down to "Cmake: Generator" and enter "NMake Makefiles" into the box:<br/>
 ![s2](https://user-images.githubusercontent.com/113371324/195964868-ddceed44-f49c-486e-bac1-310280c0c62b.png)
-<br/>
-Go to the File menu and click on "Open Folder" and navigate to pico-examples and select folder. Select "GCC for arm-none-eabi" for the
-compiler and click on the "Build" button in the blue bottom bar. <br/>
+
+
+Go to the File menu and click on "Open Folder" and navigate to pico-examples and select folder:
+![s8](https://user-images.githubusercontent.com/113371324/195966434-63a3fa9b-ff29-4357-8200-013cca1ca451.png)
+
+Select "GCC for arm-none-eabi" for the compiler and click on the "Build" button in the blue bottom bar. 
 Build successful like follow: <br/>
 ![s6](https://user-images.githubusercontent.com/113371324/195965875-2d09dd65-88bc-4d70-afaf-592845df5d13.png)
 
