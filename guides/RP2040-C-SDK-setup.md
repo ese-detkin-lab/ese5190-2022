@@ -59,4 +59,5 @@
 - Minghui Ni: https://github.com/minghuin/ESE519_General/blob/main/guide_from_zero_to_hello_world.md
 - Praveen Raj Uma Maheswari Shyam Sundar: https://github.com/Praveen-Raj-u-s/lab2-setup
 - Sai Koushik: https://github.com/koushik-sss/ESE-5190-Lab-2-Setup-Guide-Sai/blob/main/README.md
+- Hao Dong: https://github.com/koushik-sss/ESE-5190-Lab-2-Setup-Guide-Sai/blob/main/README.md
 ### Other...
