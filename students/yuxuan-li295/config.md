@@ -5,9 +5,9 @@
 ### `/lab2b/part01/status`
 Complete
 ### `/lab2b/part02/link`
-none
+- [Part02](https://github.com/anniepan8215/ESE519_lab2B/tree/main/lab/02_repl)
 ### `/lab2b/part02/status`
-not-started
+in-progress
 ### `/lab2b/part03/link`
 none
 ### `/lab2b/part03/status`
