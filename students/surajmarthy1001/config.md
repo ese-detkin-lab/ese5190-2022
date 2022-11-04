@@ -1,19 +1,19 @@
 ### `/lab2b/part01/link`
 none
 ### `/lab2b/part01/status`
-not-started
+in-progress
 ### `/lab2b/part02/link`
 none
 ### `/lab2b/part02/status`
-not-started
+in-progress
 ### `/lab2b/part03/link`
-none
+https://github.com/SurajMarthy1001/ese5190-2022-suraj/blob/main/students/surajmarthy1001/code/part03/sequencer.c
 ### `/lab2b/part03/status`
-not-started
+in-progress
 ### `/lab2b/part04/link`
 none
 ### `/lab2b/part04/status`
-not-started
+in-progress
 ### `/lab2b/part05/link`
 none
 ### `/lab2b/part05/status`
