@@ -15,9 +15,9 @@ none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+https://github.com/sueqixue/ese519-2022-lab2-2B/tree/main/05_i2c_traffic
 ### `/lab2b/part05/status`
-not-started
+completed
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
