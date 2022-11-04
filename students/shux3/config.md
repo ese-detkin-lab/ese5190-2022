@@ -7,11 +7,11 @@ complete
 ### `/lab2b/part02/status`
 complete
 ### `/lab2b/part03/link`
-none
+[03_sequencer](https://github.com/shux3/ese5190_lab2B_full/tree/main/03_sequencer)
 ### `/lab2b/part03/status`
 in-progress
 ### `/lab2b/part04/link`
-none
+[04_slow_motion](https://github.com/shux3/ese5190_lab2B_full/tree/main/04_slow_motion)
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
@@ -19,24 +19,24 @@ not-started
 ### `/lab2b/part05/status`
 complete
 ### `/lab2b/part06/link`
-none
+[06_pioscope](https://github.com/shux3/ese5190_lab2B_full/tree/main/06_pioscope)
 ### `/lab2b/part06/status`
 not-started
 ### `/lab2b/part07/link`
-none
+[07_pio_sequencer](https://github.com/shux3/ese5190_lab2B_full/tree/main/07_pio_sequencer)
 ### `/lab2b/part07/status`
 not-started
 ### `/lab2b/part08/link`
-none
+[08_adps_protocol](https://github.com/shux3/ese5190_lab2B_full/tree/main/08_adps_protocol)
 ### `/lab2b/part08/status`
 not-started
 ### `/lab2b/part09/link`
-none
+[09_lab_on_a_chip](https://github.com/shux3/ese5190_lab2B_full/tree/main/09_lab_on_a_chip)
 ### `/lab2b/part09/status`
 not-started
 ### `/lab2b/part10/link`
-none
+[10_protoboard](https://github.com/shux3/ese5190_lab2B_full/tree/main/10_protoboard)
 ### `/lab2b/part10/status`
 not-started
 ### `/lab2b/status`
-not-started
+in-progress
