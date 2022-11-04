@@ -3,9 +3,9 @@
 ### `/lab2b/part01/status`
 ✓ completed
 ### `/lab2b/part02/link`
-none
+[part02](https://github.com/sueqixue/ese519-2022-lab2-2B/blob/main/02_repl/02_repl.md)
 ### `/lab2b/part02/status`
-not-started
+→ in-progress
 ### `/lab2b/part03/link`
 none
 ### `/lab2b/part03/status`
