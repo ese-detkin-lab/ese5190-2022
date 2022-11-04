@@ -1,7 +1,7 @@
 ### `/lab2b/part01/link`
-done
+none
 ### `/lab2b/part01/status`
-not-started
+done
 ### `/lab2b/part02/link`
 none
 ### `/lab2b/part02/status`
