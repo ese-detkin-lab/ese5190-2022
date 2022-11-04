@@ -3,9 +3,9 @@ https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/01_registers/RE
 ### `/lab2b/part01/status`
 Completed
 ### `/lab2b/part02/link`
-none
+https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/02_repl/README.md
 ### `/lab2b/part02/status`
-not-started
+In-progress
 ### `/lab2b/part03/link`
 none
 ### `/lab2b/part03/status`
