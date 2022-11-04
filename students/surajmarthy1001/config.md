@@ -7,7 +7,7 @@ none
 ### `/lab2b/part02/status`
 in-progress
 ### `/lab2b/part03/link`
-https://github.com/SurajMarthy1001/ese5190-2022-suraj/blob/main/students/surajmarthy1001/code/part03/sequencer.c
+[Part 03](https://github.com/SurajMarthy1001/ese5190-2022-suraj/tree/main/students/surajmarthy1001/code/part03)
 ### `/lab2b/part03/status`
 in-progress
 ### `/lab2b/part04/link`
