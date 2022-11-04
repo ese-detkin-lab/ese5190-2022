@@ -1,7 +1,7 @@
 ### `/lab2b/part01/link`
-none
+https://github.com/anniepan8215/ESE519_lab2B/tree/main/lab/01_registers
 ### `/lab2b/part01/status`
-not-started
+Finished.
 ### `/lab2b/part02/link`
 none
 ### `/lab2b/part02/status`
@@ -15,9 +15,9 @@ none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+[lab2b_part05](https://github.com/anniepan8215/ESE519_lab2B/tree/main/lab/05_i2c_traffic)
 ### `/lab2b/part05/status`
-not-started
+Finished.
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
