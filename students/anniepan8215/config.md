@@ -1,7 +1,7 @@
 ### `/lab2b/part01/link`
 [lab2b_part01](https://github.com/anniepan8215/ESE519_lab2B/tree/main/lab/01_registers)
 ### `/lab2b/part01/status`
-Finished.
+Complete
 ### `/lab2b/part02/link`
 [lab2b_part02](https://github.com/anniepan8215/ESE519_lab2B/tree/main/lab/02_repl)
 ### `/lab2b/part02/status`
@@ -17,7 +17,7 @@ not-started
 ### `/lab2b/part05/link`
 [lab2b_part05](https://github.com/anniepan8215/ESE519_lab2B/tree/main/lab/05_i2c_traffic)
 ### `/lab2b/part05/status`
-Finished.
+Complete
 ### `/lab2b/part06/link`
 [lab2b_part06](https://github.com/anniepan8215/ESE519_lab2B/tree/main/lab/06_pioscope)
 ### `/lab2b/part06/status`
@@ -37,6 +37,6 @@ not-started
 ### `/lab2b/part10/link`
 [lab2b_part10](https://github.com/anniepan8215/ESE519_lab2B/tree/main/lab/10_protoboard)
 ### `/lab2b/part10/status`
-Finished.
+In progress
 ### `/lab2b/status`
 not-started
