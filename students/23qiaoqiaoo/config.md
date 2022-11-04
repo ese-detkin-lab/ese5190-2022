@@ -1,21 +1,21 @@
 ### `/lab2b/part01/link`
-none
+[lab1](https://github.com/23qiaoqiaoo/eselab2b-program/tree/main/ese5190-2022-lab2b-esp-main/lab/01_registers)
 ### `/lab2b/part01/status`
-not-started
+Done
 ### `/lab2b/part02/link`
-none
+[lab2](https://github.com/23qiaoqiaoo/eselab2b-program/tree/main/ese5190-2022-lab2b-esp-main/lab/02_repl)
 ### `/lab2b/part02/status`
-not-started
+Done
 ### `/lab2b/part03/link`
-none
+[lab3](https://github.com/23qiaoqiaoo/eselab2b-program/tree/main/ese5190-2022-lab2b-esp-main/lab/03_sequencer)
 ### `/lab2b/part03/status`
-not-started
+In Progress
 ### `/lab2b/part04/link`
 none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+[none](https://github.com/23qiaoqiaoo/eselab2b-program/tree/main/ese5190-2022-lab2b-esp-main/lab/05_i2c_traffic)
 ### `/lab2b/part05/status`
 not-started
 ### `/lab2b/part06/link`
