@@ -1,23 +1,23 @@
 ### `/lab2b/part01/link`
-none
+https://github.com/Thea-E/ese5190-2022-lab2b-esp/blob/main/lab/01_registers/flashlight_reg.c
 ### `/lab2b/part01/status`
-not-started
+Completed
 ### `/lab2b/part02/link`
-none
+https://github.com/Thea-E/ese5190-2022-lab2b-esp/blob/main/lab/02_repl/repl3.c
 ### `/lab2b/part02/status`
-not-started
+In progress (TO DO: Atomic write)
 ### `/lab2b/part03/link`
-none
+https://github.com/Thea-E/ese5190-2022-lab2b-esp/tree/main/lab/03_sequencer
 ### `/lab2b/part03/status`
-not-started
+In progress
 ### `/lab2b/part04/link`
 none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+https://github.com/Thea-E/ese5190-2022-lab2b-esp/blob/main/lab/05_i2c_traffic/os.jpg
 ### `/lab2b/part05/status`
-not-started
+completed
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
