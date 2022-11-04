@@ -1,42 +1,42 @@
 ### `/lab2b/part01/link`
-none
+[katrinalab2Bcode](https://github.com/katrinaji/ese5190_lab2b_code.git)
 ### `/lab2b/part01/status`
-not-started
+complete
 ### `/lab2b/part02/link`
-none
+[katrinalab2Bcode](https://github.com/katrinaji/ese5190_lab2b_code.git)
 ### `/lab2b/part02/status`
-not-started
+in-progress
 ### `/lab2b/part03/link`
-none
+[katrinalab2Bcode](https://github.com/katrinaji/ese5190_lab2b_code.git)
 ### `/lab2b/part03/status`
 not-started
 ### `/lab2b/part04/link`
-none
+[katrinalab2Bcode](https://github.com/katrinaji/ese5190_lab2b_code.git)
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+[katrinalab2Bcode](https://github.com/katrinaji/ese5190_lab2b_code.git)
 ### `/lab2b/part05/status`
-not-started
+complete
 ### `/lab2b/part06/link`
-none
+[katrinalab2Bcode](https://github.com/katrinaji/ese5190_lab2b_code.git)
 ### `/lab2b/part06/status`
 not-started
 ### `/lab2b/part07/link`
-none
+[katrinalab2Bcode](https://github.com/katrinaji/ese5190_lab2b_code.git)
 ### `/lab2b/part07/status`
 not-started
 ### `/lab2b/part08/link`
-none
+[katrinalab2Bcode](https://github.com/katrinaji/ese5190_lab2b_code.git)
 ### `/lab2b/part08/status`
 not-started
 ### `/lab2b/part09/link`
-none
+[katrinalab2Bcode](https://github.com/katrinaji/ese5190_lab2b_code.git)
 ### `/lab2b/part09/status`
 not-started
 ### `/lab2b/part10/link`
-none
+[katrinalab2Bcode](https://github.com/katrinaji/ese5190_lab2b_code.git)
 ### `/lab2b/part10/status`
 not-started
 ### `/lab2b/status`
-not-started
+in-progess
