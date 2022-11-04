@@ -1,9 +1,9 @@
 ### `/lab2b/part01/link`
-Completed. The link is given as follows:
+- [Part01](https://github.com/anniepan8215/ESE519_lab2B/tree/main/lab/01_registers)
 
 
 ### `/lab2b/part01/status`
-not-started
+Complete
 ### `/lab2b/part02/link`
 none
 ### `/lab2b/part02/status`
