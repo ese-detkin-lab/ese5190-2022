@@ -1,7 +1,7 @@
 ### `/lab2b/part01/link`
-none
+[](https://github.com/sugahiraeth/Lab2Bese5190/blob/main/Parts/Part1)
 ### `/lab2b/part01/status`
-not-started
+Done
 ### `/lab2b/part02/link`
 none
 ### `/lab2b/part02/status`
@@ -15,9 +15,9 @@ none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+[](https://github.com/sugahiraeth/Lab2Bese5190/tree/main/Parts/Part5)
 ### `/lab2b/part05/status`
-not-started
+Done
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
