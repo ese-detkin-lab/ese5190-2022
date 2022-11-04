@@ -15,9 +15,9 @@ none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+(https://github.com/Phoebe-www/ese5190-2022-lab2b-esp/tree/main/lab/05_i2c_traffic)
 ### `/lab2b/part05/status`
-not-started
+Complete
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
