@@ -15,9 +15,9 @@ none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+***Link*** : https://github.com/Ruturajn/Lab2b-esp/tree/main/lab2b_parts/05_i2c_traffic
 ### `/lab2b/part05/status`
-not-started
+***Status*** : Done
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
