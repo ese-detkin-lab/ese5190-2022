@@ -15,7 +15,7 @@ none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+(https://github.com/real-YingXu/lab2bpart.git)
 ### `/lab2b/part05/status`
 not-started
 ### `/lab2b/part06/link`
