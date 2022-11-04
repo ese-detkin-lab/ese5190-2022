@@ -17,9 +17,9 @@ none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+[Part05](https://github.com/anniepan8215/ESE519_lab2B/blob/main/lab/05_i2c_traffic/README.md)
 ### `/lab2b/part05/status`
-Completed.
+Complete
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
@@ -34,7 +34,7 @@ none
 not-started
 ### `/lab2b/part09/link`
 none
-### `/lab2b/part09/status`
+### `/lab2b/part09/status`s
 not-started
 ### `/lab2b/part10/link`
 none
