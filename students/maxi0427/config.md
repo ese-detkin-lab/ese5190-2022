@@ -14,7 +14,8 @@ not-started
 none
 ### `/lab2b/part04/status`
 not-started
-### `/lab2b/part05/link`
+### `/lab2b/part05/link`[https://github.com/Maxi0427/ESE519_lab2b/tree/main/lab/part5]
+
 none
 ### `/lab2b/part05/status`
 not-started
