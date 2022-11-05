@@ -1,23 +1,23 @@
 ### `/lab2b/part01/link`
-none
+https://github.com/amoghgajare/ESE5190_LAB2B_01_Registers
 ### `/lab2b/part01/status`
-not-started
+complete
 ### `/lab2b/part02/link`
-none
+https://github.com/amoghgajare/ESE5190-LAB2B-02_REPL
 ### `/lab2b/part02/status`
-not-started
+complete
 ### `/lab2b/part03/link`
-none
+https://github.com/amoghgajare/5190-Lab2B-03_Sequencer
 ### `/lab2b/part03/status`
-not-started
+complete
 ### `/lab2b/part04/link`
-none
+https://github.com/amoghgajare/5190-Lab2B-04_SlowMotion
 ### `/lab2b/part04/status`
-not-started
+complete
 ### `/lab2b/part05/link`
-none
+https://github.com/amoghgajare/5190-Lab2B-05_I2CTraffic
 ### `/lab2b/part05/status`
-not-started
+complete
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
