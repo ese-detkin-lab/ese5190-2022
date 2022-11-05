@@ -1,23 +1,23 @@
 ### `/lab2b/part01/link`
-none
+https://github.com/dvishab/Lab2B-part1-to-10-status-update/tree/main/Part1
 ### `/lab2b/part01/status`
-not-started
+Done
 ### `/lab2b/part02/link`
-none
+https://github.com/dvishab/Lab2B-part1-to-10-status-update/tree/main/Part2
 ### `/lab2b/part02/status`
-not-started
+Done
 ### `/lab2b/part03/link`
 none
 ### `/lab2b/part03/status`
-not-started
+in progress
 ### `/lab2b/part04/link`
 none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+https://github.com/dvishab/Lab2B-part1-to-10-status-update/tree/main/Part05_I2C-Trace
 ### `/lab2b/part05/status`
-not-started
+Done
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
