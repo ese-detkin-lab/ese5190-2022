@@ -1,23 +1,23 @@
 ### `/lab2b/part01/link`
-none
+https://github.com/minghuin/ESE5190_Lab/tree/main/lab2B/part_1
 ### `/lab2b/part01/status`
-not-started
+finished
 ### `/lab2b/part02/link`
-none
+https://github.com/minghuin/ESE5190_Lab/tree/main/lab2B/part_2
 ### `/lab2b/part02/status`
-not-started
+finished
 ### `/lab2b/part03/link`
-none
+https://github.com/minghuin/ESE5190_Lab/tree/main/lab2B/part_3%2B4
 ### `/lab2b/part03/status`
-not-started
+in-progress, await feature: remapping IO
 ### `/lab2b/part04/link`
-none
+https://github.com/minghuin/ESE5190_Lab/tree/main/lab2B/part_3%2B4
 ### `/lab2b/part04/status`
-not-started
+in-progress, await feature: Output Rate Adjustment
 ### `/lab2b/part05/link`
-none
+https://github.com/minghuin/ESE5190_Lab/tree/main/lab2B/part_5
 ### `/lab2b/part05/status`
-not-started
+Finished
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
