@@ -1,11 +1,11 @@
 ### `/lab2b/part01/link`
-none
+https://github.com/Maxi0427/ESE519_lab2b/tree/main/lab/part1
 ### `/lab2b/part01/status`
-not-started
+completed
 ### `/lab2b/part02/link`
-none
+[none](https://github.com/Maxi0427/ESE519_lab2b/tree/main/lab/part2)
 ### `/lab2b/part02/status`
-not-started
+in-progress
 ### `/lab2b/part03/link`
 none
 ### `/lab2b/part03/status`
@@ -14,11 +14,10 @@ not-started
 none
 ### `/lab2b/part04/status`
 not-started
-### `/lab2b/part05/link`[https://github.com/Maxi0427/ESE519_lab2b/tree/main/lab/part5]
-
-none
+### `/lab2b/part05/link`
+https://github.com/Maxi0427/ESE519_lab2b/tree/main/lab/part5
 ### `/lab2b/part05/status`
-not-started
+completed
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
