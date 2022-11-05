@@ -1,3 +1,5 @@
+Worked with: Aamir Khambaty
+
 /lab2b/part01/link
 In Progress
 
@@ -23,6 +25,8 @@ In Progress
 
 In Progress
 /lab2b/part05/link
+
+Lab 5 trace: https://github.com/Shantykins/ese5190-2022-lab2b-esp/blob/main/lab/05_i2c_traffic/README.md
 
 Done
 /lab2b/part05/status
