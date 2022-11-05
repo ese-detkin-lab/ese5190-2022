@@ -7,7 +7,7 @@ https://github.com/dvishab/Lab2B-part1-to-10-status-update/tree/main/Part2
 ### `/lab2b/part02/status`
 Done
 ### `/lab2b/part03/link`
-none
+https://github.com/dvishab/Lab2B-part1-to-10-status-update/tree/main/Part3
 ### `/lab2b/part03/status`
 in progress
 ### `/lab2b/part04/link`
