@@ -3,7 +3,7 @@ none
 ### `/lab2b/part01/status`
 not-started
 ### `/lab2b/part02/link`
-not-started
+[here](https://github.com/koushik-sss/LAB2B_ESE5190/tree/main/Part-2)
 ### `/lab2b/part02/status`
 in-progress
 ### `/lab2b/part03/link`
