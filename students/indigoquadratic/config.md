@@ -9,7 +9,7 @@ done
 ### `/lab2b/part03/link`
 [link](https://github.com/IndigoQuadratic/ese5190-2022-lab2b-esp/tree/main/flashlight/p3)
 ### `/lab2b/part03/status`
-done
+in progress
 ### `/lab2b/part04/link`
 [link](https://github.com/IndigoQuadratic/ese5190-2022-lab2b-esp/tree/main/flashlight/p4)
 ### `/lab2b/part04/status`
