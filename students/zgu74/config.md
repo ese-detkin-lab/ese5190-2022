@@ -5,7 +5,7 @@ completed
 ### `/lab2b/part02/link`
 https://github.com/zgu74/Lab-2B-Part-2.git
 ### `/lab2b/part02/status`
-in progress
+completed
 ### `/lab2b/part03/link`
 none
 ### `/lab2b/part03/status`
