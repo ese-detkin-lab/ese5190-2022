@@ -1,4 +1,4 @@
-Use button to change the coclor of LED by reading the GPIO register.
+Use button to change the coclor of LED by reading the GPIO register.  
 ![faa68513060827a0ef38ea50c59dd775 00_00_00-00_00_08 00_00_00-00_00_30~1](https://user-images.githubusercontent.com/64452307/200100626-7415e30d-c709-4494-bdd3-8afafdb8d5eb.gif)  
 
 Also, output the resgister value under different key status.
