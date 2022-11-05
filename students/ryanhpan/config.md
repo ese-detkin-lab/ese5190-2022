@@ -1,7 +1,7 @@
 ### `/lab2b/part01/link`
-none
+[part01 code](https://github.com/ryanhpan/ese5190-2022-lab2b-esp/tree/main)
 ### `/lab2b/part01/status`
-in-progress
+complete
 ### `/lab2b/part02/link`
 none
 ### `/lab2b/part02/status`
