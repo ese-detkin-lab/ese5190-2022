@@ -7,11 +7,11 @@ https://github.com/zgu74/Lab-2B-Part-2.git
 ### `/lab2b/part02/status`
 completed
 ### `/lab2b/part03/link`
-none
+https://github.com/zgu74/Lab-2B-Part-3.git
 ### `/lab2b/part03/status`
 not-started
 ### `/lab2b/part04/link`
-none
+https://github.com/zgu74/Lab-2B-Part-4.git
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
