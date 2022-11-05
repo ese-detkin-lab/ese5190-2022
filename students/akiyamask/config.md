@@ -1,11 +1,11 @@
 ### `/lab2b/part01/link`
 none
 ### `/lab2b/part01/status`
-not-started
+in progress
 ### `/lab2b/part02/link`
 none
 ### `/lab2b/part02/status`
-not-started
+in progress
 ### `/lab2b/part03/link`
 none
 ### `/lab2b/part03/status`
@@ -15,9 +15,9 @@ none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+https://github.com/akiyamask/ese5190-2022-lab2b-esp/blob/main/lab/05_i2c_traffic/README.md
 ### `/lab2b/part05/status`
-not-started
+in progress
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
