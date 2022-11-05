@@ -1,23 +1,23 @@
 ### `/lab2b/part01/link`
-none
+https://github.com/saurabhparulekar24/ESE5190_LAB2B_PART01
 ### `/lab2b/part01/status`
-not-started
+complete
 ### `/lab2b/part02/link`
-none
+https://github.com/saurabhparulekar24/ESE5190-LAB2B-PART02
 ### `/lab2b/part02/status`
-not-started
+complete
 ### `/lab2b/part03/link`
-none
+https://github.com/saurabhparulekar24/ESE5190_LAB2B_PART03
 ### `/lab2b/part03/status`
-not-started
+complete
 ### `/lab2b/part04/link`
-none
+https://github.com/saurabhparulekar24/ESE5190_LAB2B_PART04
 ### `/lab2b/part04/status`
-not-started
+complete
 ### `/lab2b/part05/link`
-none
+https://github.com/saurabhparulekar24/ESE5190_LAB2B_PART05
 ### `/lab2b/part05/status`
-not-started
+complete
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
