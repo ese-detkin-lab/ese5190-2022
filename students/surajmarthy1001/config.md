@@ -3,7 +3,7 @@ none
 ### `/lab2b/part01/status`
 in-progress
 ### `/lab2b/part02/link`
-none
+[Part 02](https://github.com/SurajMarthy1001/ese5190-2022-suraj/tree/main/students/surajmarthy1001/code/part02)
 ### `/lab2b/part02/status`
 in-progress
 ### `/lab2b/part03/link`
@@ -15,9 +15,9 @@ none
 ### `/lab2b/part04/status`
 in-progress
 ### `/lab2b/part05/link`
-none
+[Part 05](https://github.com/SurajMarthy1001/ese5190-2022-suraj/tree/main/students/surajmarthy1001/code/part05)
 ### `/lab2b/part05/status`
-not-started
+complete
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
