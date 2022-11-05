@@ -1,23 +1,23 @@
 ### `/lab2b/part01/link`
-none
+https://github.com/Xiaayu/ese5190-lab2b-Part1
 ### `/lab2b/part01/status`
-not-started
+Completed.
 ### `/lab2b/part02/link`
-none
+https://github.com/Xiaayu/ese5190-lab2b-Part2
 ### `/lab2b/part02/status`
-not-started
+Almost completed.
 ### `/lab2b/part03/link`
 none
 ### `/lab2b/part03/status`
-not-started
+In progress.
 ### `/lab2b/part04/link`
 none
 ### `/lab2b/part04/status`
-not-started
+In progress.
 ### `/lab2b/part05/link`
-none
+https://github.com/Xiaayu/ese5190-lab2B-Part5
 ### `/lab2b/part05/status`
-not-started
+Completed.
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
