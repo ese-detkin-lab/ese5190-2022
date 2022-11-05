@@ -1,11 +1,11 @@
 ### `/lab2b/part01/link`
 none
 ### `/lab2b/part01/status`
-not-started
+in-progress
 ### `/lab2b/part02/link`
 none
 ### `/lab2b/part02/status`
-not-started
+in-progress
 ### `/lab2b/part03/link`
 none
 ### `/lab2b/part03/status`
@@ -15,9 +15,10 @@ none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+![a](https://github.com/akiyamask/ese5190-2022/blob/main/1.jpg)
+![a](https://github.com/akiyamask/ese5190-2022/blob/main/2.jpg)
 ### `/lab2b/part05/status`
-not-started
+in progress
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
