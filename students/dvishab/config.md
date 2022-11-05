@@ -37,6 +37,6 @@ not-started
 ### `/lab2b/part10/link`
 none
 ### `/lab2b/part10/status`
-not-started
+Done
 ### `/lab2b/status`
 not-started
