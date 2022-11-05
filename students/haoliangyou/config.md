@@ -1,23 +1,23 @@
 ### `/lab2b/part01/link`
 none
 ### `/lab2b/part01/status`
-not-started
+in progress
 ### `/lab2b/part02/link`
 none
 ### `/lab2b/part02/status`
-not-started
+in progress
 ### `/lab2b/part03/link`
 none
 ### `/lab2b/part03/status`
-not-started
+in progress
 ### `/lab2b/part04/link`
 none
 ### `/lab2b/part04/status`
-not-started
+in progress
 ### `/lab2b/part05/link`
-none
+[Part5](https://github.com/HaoliangYou/ese5190-2022-lab2b-esp/tree/main/lab/05_i2c_traffic)
 ### `/lab2b/part05/status`
-not-started
+done
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
