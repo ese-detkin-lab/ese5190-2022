@@ -3,7 +3,7 @@ https://github.com/Maxi0427/ESE519_lab2b/tree/main/lab/part1
 ### `/lab2b/part01/status`
 completed
 ### `/lab2b/part02/link`
-[none](https://github.com/Maxi0427/ESE519_lab2b/tree/main/lab/part2)
+https://github.com/Maxi0427/ESE519_lab2b/tree/main/lab/part2
 ### `/lab2b/part02/status`
 in-progress
 ### `/lab2b/part03/link`
