@@ -1,5 +1,5 @@
 ### `/lab2b/part01/link`
-(https://github.com/xcyxcyxcyxcy/lab2B-part-1)
+https://github.com/xcyxcyxcyxcy/lab2B-part-1
 ### `/lab2b/part01/status`
 completed
 ### `/lab2b/part02/link`
@@ -15,7 +15,7 @@ none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-(https://github.com/xcyxcyxcyxcy/lab2b-part-5/blob/main/README.md)
+https://github.com/xcyxcyxcyxcy/lab2b-part-5/blob/main/README.md
 ### `/lab2b/part05/status`
 Completed
 ### `/lab2b/part06/link`
