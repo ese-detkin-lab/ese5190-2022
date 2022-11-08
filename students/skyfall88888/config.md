@@ -1,27 +1,27 @@
 ### `/lab2b/part01/link`
-none
+https://github.com/skyfall88888/ese5190-2022-lab2b-esp-YF/blob/main/2B_part1_registers
 ### `/lab2b/part01/status`
-not-started
+Completed
 ### `/lab2b/part02/link`
-none
+https://github.com/skyfall88888/ese5190-2022-lab2b-esp-YF/blob/main/2B_part2_REPL.txt
 ### `/lab2b/part02/status`
-not-started
+Completed
 ### `/lab2b/part03/link`
-none
+https://github.com/skyfall88888/ese5190-2022-lab2b-esp-YF/tree/main/2B_part3_sequencer
 ### `/lab2b/part03/status`
-not-started
+Completed
 ### `/lab2b/part04/link`
-none
+Nearly finished
 ### `/lab2b/part04/status`
-not-started
+Nearly finished
 ### `/lab2b/part05/link`
-none
+https://github.com/skyfall88888/ese5190-2022-lab2b-esp-YF/blob/main/2B_part5_i2c.jpg
 ### `/lab2b/part05/status`
-not-started
+Completed
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
-not-started
+In progress
 ### `/lab2b/part07/link`
 none
 ### `/lab2b/part07/status`
