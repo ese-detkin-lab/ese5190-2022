@@ -19,7 +19,9 @@ not-started
 https://github.com/arnavgadre/Lab2b_esp_Arnav/blob/main/Lab_2B_Part5/Screenshots.md
 
 ### `/lab2b/part05/status`
-not-started
+
+Done (The snapshots of the CRO's can be found in the README file in the link provided above)
+
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
