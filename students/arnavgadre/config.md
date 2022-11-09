@@ -7,9 +7,13 @@ https://github.com/arnavgadre/Lab2b_esp_Arnav/tree/main/Lab_2B_Parts/Part_1
 Done (README and Code files can be found in the link provided above)
 
 ### `/lab2b/part02/link`
-none
+
+https://github.com/arnavgadre/Lab2b_esp_Arnav/tree/main/Lab_2B_Parts/Part_2
+
 ### `/lab2b/part02/status`
-not-started
+
+Done (README and Code files can be found in the link provided above)
+
 ### `/lab2b/part03/link`
 none
 ### `/lab2b/part03/status`
