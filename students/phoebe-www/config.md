@@ -3,9 +3,9 @@
 ### `/lab2b/part01/status`
 Complete
 ### `/lab2b/part02/link`
-none
+(https://github.com/Phoebe-www/ese5190-2022-lab2b-esp/blob/main/lab/02_repl/README.md)
 ### `/lab2b/part02/status`
-not-started
+Complete
 ### `/lab2b/part03/link`
 none
 ### `/lab2b/part03/status`
