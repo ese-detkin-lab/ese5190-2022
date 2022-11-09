@@ -9,12 +9,11 @@
 ### `/lab2b/part03/link`
 ***Link*** : https://github.com/Ruturajn/Lab2b-esp/tree/main/lab2b_parts/03_sequencer
 ### `/lab2b/part03/status`
-***Status*** : *Partially Done - Recording sequences using macros pressed on the keyboard not done yet. This
-section is divided into `3` separate subdirectories where the code and the README files for each part can be found.*
+***Status*** : *Done (This section is divided into `3` separate subdirectories where the code and the README files for each part can be found.)*
 ### `/lab2b/part04/link`
-none
+***Link*** : https://github.com/Ruturajn/Lab2b-esp/tree/main/lab2b_parts/04_slow_motion
 ### `/lab2b/part04/status`
-not-started
+***Status*** : *Done (Code and the README file can be found at link above)*
 ### `/lab2b/part05/link`
 ***Link*** : https://github.com/Ruturajn/Lab2b-esp/tree/main/lab2b_parts/05_i2c_traffic
 ### `/lab2b/part05/status`
