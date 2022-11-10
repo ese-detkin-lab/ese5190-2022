@@ -9,15 +9,15 @@ complete
 ### `/lab2b/part03/link`
 https://github.com/ndobrad/ese5190-2022-lab2b-esp/blob/main/lab/03_sequencer
 ### `/lab2b/part03/status`
-in-progress
+complete
 ### `/lab2b/part04/link`
 https://github.com/ndobrad/ese5190-2022-lab2b-esp/blob/main/lab/04_slow_motion
 ### `/lab2b/part04/status`
-not-started
+complete
 ### `/lab2b/part05/link`
 https://github.com/ndobrad/ese5190-2022-lab2b-esp/blob/main/lab/05_i2c_traffic
 ### `/lab2b/part05/status`
-not-started
+in-progress
 ### `/lab2b/part06/link`
 https://github.com/ndobrad/ese5190-2022-lab2b-esp/blob/main/lab/06_pioscope
 ### `/lab2b/part06/status`
