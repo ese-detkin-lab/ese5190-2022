@@ -1,9 +1,6 @@
 ### `/lab2b/part01/link`
-
 https://github.com/TomGoh/ese_5190_lab2b/tree/main/01_registers
-
 ### `/lab2b/part01/status`
-
 complete
 ### `/lab2b/part02/link`
 https://github.com/TomGoh/ese_5190_lab2b/tree/main/01_registers
@@ -12,28 +9,19 @@ complete
 ### `/lab2b/part03/link`
 https://github.com/TomGoh/ese_5190_lab2b/tree/main/03_sequencer
 ### `/lab2b/part03/status`
-Partially Complete.
-
-Multi remapped ongoing.
-
+in-progress
 ### `/lab2b/part04/link`
 https://github.com/TomGoh/ese_5190_lab2b/tree/main/04_slow_motion
 ### `/lab2b/part04/status`
-Partially Complete.
-
-Only divide clock on the serial record.
-
+in-progress
 ### `/lab2b/part05/link`
 https://github.com/TomGoh/ese_5190_lab2b/tree/main/05_i2c_traffic
 ### `/lab2b/part05/status`
-Complete
+complete
 ### `/lab2b/part06/link`
 https://github.com/TomGoh/ese_5190_lab2b/tree/main/06_pioscope
 ### `/lab2b/part06/status`
-On going.
-
-Trying to adapt the logic analyzer PIO to the task in part 6.
-
+in-progress
 ### `/lab2b/part07/link`
 https://github.com/TomGoh/ese_5190_lab2b/tree/main/07_pio_sequencer
 ### `/lab2b/part07/status`
@@ -46,15 +34,9 @@ not-started
 https://github.com/TomGoh/ese_5190_lab2b/tree/main/09_lab_on_a_chip
 ### `/lab2b/part09/status`
 not-started
-
 ### `/lab2b/part10/link`
-
 https://github.com/TomGoh/ese_5190_lab2b/tree/main/10_protoboard
-
 ### `/lab2b/part10/status`
-Design and implementation complete.
-
-Soldiering pending.
-
+in-progress
 ### `/lab2b/status`
-Partially Complete.
+in-progress
