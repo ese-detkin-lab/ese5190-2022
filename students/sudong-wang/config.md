@@ -15,9 +15,9 @@ none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+https://github.com/sudong-wang/lab2b-part5/blob/main/README.md
 ### `/lab2b/part05/status`
-not-started
+completed
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
