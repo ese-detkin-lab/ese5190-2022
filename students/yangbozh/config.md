@@ -15,9 +15,9 @@ none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+(https://github.com/yangbozh/ese519_codes/blob/main/lab2b_part5.md)
 ### `/lab2b/part05/status`
-not-started
+in-progress
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
