@@ -1,7 +1,7 @@
 ### `/lab2b/part01/link`
 https://github.com/sudong-wang/lab2b-part1
 ### `/lab2b/part01/status`
-completed
+complete
 ### `/lab2b/part02/link`
 none
 ### `/lab2b/part02/status`
