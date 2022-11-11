@@ -1,11 +1,11 @@
 ### `/lab2b/part01/link`
 https://github.com/YuchenWang0303/Lab2b_Part1.git
 ### `/lab2b/part01/status`
-Done
+complete
 ### `/lab2b/part02/link`
 none
 ### `/lab2b/part02/status`
-In Progress
+in-progress
 ### `/lab2b/part03/link`
 none
 ### `/lab2b/part03/status`
@@ -17,7 +17,7 @@ not-started
 ### `/lab2b/part05/link`
 https://github.com/YuchenWang0303/Lab2b_part5-Yuchen-Wang-Worked-with-Katrina-Ji.git
 ### `/lab2b/part05/status`
-Done
+complete
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
