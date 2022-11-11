@@ -1,23 +1,23 @@
 ### `/lab2b/part01/link`
-
+https://github.com/Siddmathur14/Lab2B-parts/tree/main/lab2b/part_1
 ### `/lab2b/part01/status`
-in progress
+complete
 ### `/lab2b/part02/link`
-none
+https://github.com/Siddmathur14/Lab2B-parts/tree/main/lab2b/part_2
 ### `/lab2b/part02/status`
-in progress
+complete
 ### `/lab2b/part03/link`
-none
+https://github.com/Siddmathur14/Lab2B-parts/tree/main/lab2b/part_3
 ### `/lab2b/part03/status`
-in progress
+complete
 ### `/lab2b/part04/link`
-none
+https://github.com/Siddmathur14/Lab2B-parts/tree/main/lab2b/part_4
 ### `/lab2b/part04/status`
-not-started
+complete
 ### `/lab2b/part05/link`
 https://github.com/Siddmathur14/Lab2B-parts/tree/main/lab2b/part_5
 ### `/lab2b/part05/status`
-done
+complete
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
