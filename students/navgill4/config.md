@@ -1,10 +1,9 @@
 ### `/lab2b/part01/link`
 https://github.com/navgill4/ESE5190_Lab2B/tree/main/sec01
 ### `/lab2b/part01/status`
-in progress
-https://github.com/navgill4/ESE5190_Lab2B/tree/main/sec02
+in-progress
 ### `/lab2b/part02/link`
-none
+https://github.com/navgill4/ESE5190_Lab2B/tree/main/sec02
 ### `/lab2b/part02/status`
 not-started
 ### `/lab2b/part03/link`
@@ -18,7 +17,7 @@ not-started
 ### `/lab2b/part05/link`
 https://github.com/navgill4/ESE5190_Lab2B/blob/main/I2c%20trace.jpeg
 ### `/lab2b/part05/status`
-not-started
+in-progress
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
