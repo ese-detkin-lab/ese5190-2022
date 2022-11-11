@@ -5,19 +5,19 @@ done
 ### `/lab2b/part02/link`
 none
 ### `/lab2b/part02/status`
-In progress
+in-progress
 ### `/lab2b/part03/link`
 none
 ### `/lab2b/part03/status`
-In progress
+in-progress
 ### `/lab2b/part04/link`
 none
 ### `/lab2b/part04/status`
-In progress
+in-progress
 ### `/lab2b/part05/link`
 https://github.com/prateekbashista/ESE-5190-Documents/blob/8a1eff5bd850aaeddfd39956eba228789a71bfe7/Lab2b_part05.md
 ### `/lab2b/part05/status`
-Done
+complete
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
