@@ -1,7 +1,7 @@
 ### `/lab2b/part01/link`
 https://github.com/real-YingXu/Lab2bpart1/blob/main/README.md
 ### `/lab2b/part01/status`
-not-started
+in-progress
 ### `/lab2b/part02/link`
 none
 ### `/lab2b/part02/status`
