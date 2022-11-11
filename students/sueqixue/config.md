@@ -1,11 +1,11 @@
 ### `/lab2b/part01/link`
-[part01](https://github.com/sueqixue/ese519-2022-lab2-2B/blob/main/01_registers/05_i2c_traffic.md)
+https://github.com/sueqixue/ese519-2022-lab2-2B/blob/main/01_registers/05_i2c_traffic.md
 ### `/lab2b/part01/status`
-✓ completed
+complete
 ### `/lab2b/part02/link`
-[part02](https://github.com/sueqixue/ese519-2022-lab2-2B/blob/main/02_repl/02_repl.md)
+https://github.com/sueqixue/ese519-2022-lab2-2B/blob/main/02_repl/02_repl.md
 ### `/lab2b/part02/status`
-→ in-progress
+in-progress
 ### `/lab2b/part03/link`
 none
 ### `/lab2b/part03/status`
@@ -15,9 +15,9 @@ none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-[part05](https://github.com/sueqixue/ese519-2022-lab2-2B/blob/main/05_i2c_traffic/05_i2c_traffic.md)
+https://github.com/sueqixue/ese519-2022-lab2-2B/blob/main/05_i2c_traffic/05_i2c_traffic.md
 ### `/lab2b/part05/status`
-✓ completed
+complete
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
