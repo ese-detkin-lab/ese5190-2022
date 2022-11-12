@@ -3,13 +3,13 @@ https://github.com/YuchenWang0303/Lab2b_Part1.git
 ### `/lab2b/part01/status`
 complete
 ### `/lab2b/part02/link`
-none
+https://github.com/YuchenWang0303/Lab2b_Part2-Yuchen-Wang.git
 ### `/lab2b/part02/status`
-in-progress
+complete
 ### `/lab2b/part03/link`
 none
 ### `/lab2b/part03/status`
-not-started
+in-progress
 ### `/lab2b/part04/link`
 none
 ### `/lab2b/part04/status`
@@ -19,9 +19,9 @@ https://github.com/YuchenWang0303/Lab2b_part5-Yuchen-Wang-Worked-with-Katrina-Ji
 ### `/lab2b/part05/status`
 complete
 ### `/lab2b/part06/link`
-none
+https://github.com/YuchenWang0303/Part6.git
 ### `/lab2b/part06/status`
-not-started
+complete
 ### `/lab2b/part07/link`
 none
 ### `/lab2b/part07/status`
