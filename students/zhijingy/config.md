@@ -7,7 +7,7 @@ https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/02_repl/README.
 ### `/lab2b/part02/status`
 complete
 ### `/lab2b/part03/link`
-[none](https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/03_sequencer/README.md)
+https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/03_sequencer/README.md
 ### `/lab2b/part03/status`
 Completed
 ### `/lab2b/part04/link`
