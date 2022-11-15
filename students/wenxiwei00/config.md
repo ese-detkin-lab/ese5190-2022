@@ -1,5 +1,6 @@
 ### `/lab2b/part01/link`
-hhh
+https://github.com/wenxiwei00/ese5190-2022-lab2b-esp/blob/main/lab/01_registers/README.md
+/
 ### `/lab2b/part01/status`
 not-started
 ### `/lab2b/part02/link`
