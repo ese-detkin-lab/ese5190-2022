@@ -19,9 +19,9 @@ https://github.com/Phoebe-www/ese5190-2022-lab2b-esp/tree/main/lab/05_i2c_traffi
 ### `/lab2b/part05/status`
 complete
 ### `/lab2b/part06/link`
-none
+(https://github.com/Phoebe-www/ese5190-2022-lab2b-esp/blob/main/lab/06_pioscope/README.md)
 ### `/lab2b/part06/status`
-not-started
+complete
 ### `/lab2b/part07/link`
 none
 ### `/lab2b/part07/status`
