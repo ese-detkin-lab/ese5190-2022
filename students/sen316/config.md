@@ -15,9 +15,11 @@ none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+code/notes: https://github.com/SEN316/ese519-lab2B/tree/main/5_i2c_traffic
+
+screenshot: https://github.com/SEN316/ese519-lab2B/blob/main/5_i2c_traffic/i2c_traffic.jpg
 ### `/lab2b/part05/status`
-not-started
+complete
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
