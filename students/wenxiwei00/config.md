@@ -11,9 +11,9 @@ none
 ### `/lab2b/part03/status`
 not-started
 ### `/lab2b/part04/link`
-none
+https://github.com/wenxiwei00/ese5190-2022-lab2b-esp/blob/main/lab/04_slow_motion/README.md/
 ### `/lab2b/part04/status`
-not-started
+completed
 ### `/lab2b/part05/link`
 none
 ### `/lab2b/part05/status`
