@@ -11,9 +11,9 @@ https://github.com/Phoebe-www/ese5190-2022-lab2b-esp/blob/main/lab/03_sequencer/
 ### `/lab2b/part03/status`
 complete
 ### `/lab2b/part04/link`
-none
+(https://github.com/Phoebe-www/ese5190-2022-lab2b-esp/blob/main/lab/04_slow_motion/README.md)
 ### `/lab2b/part04/status`
-not-started
+complete
 ### `/lab2b/part05/link`
 https://github.com/Phoebe-www/ese5190-2022-lab2b-esp/tree/main/lab/05_i2c_traffic
 ### `/lab2b/part05/status`
