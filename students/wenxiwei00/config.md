@@ -1,5 +1,5 @@
 ### `/lab2b/part01/link`
-none
+hhh
 ### `/lab2b/part01/status`
 not-started
 ### `/lab2b/part02/link`
