@@ -19,9 +19,9 @@ none
 ### `/lab2b/part05/status`
 not-started
 ### `/lab2b/part06/link`
-none
+https://github.com/wenxiwei00/ese5190-2022-lab2b-esp/blob/main/lab/06_pioscope/README.md/
 ### `/lab2b/part06/status`
-not-started
+Completed
 ### `/lab2b/part07/link`
 none
 ### `/lab2b/part07/status`
