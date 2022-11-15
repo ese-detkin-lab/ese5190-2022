@@ -17,9 +17,9 @@ not-started
 ### `/lab2b/part05/link`
 none
 ### `/lab2b/part05/status`
-not-started
+Done
 ### `/lab2b/part06/link`
-none
+https://github.com/aamirabbaskhambaty/ESE519-LAB2B_I2C_CAPTURE/blob/main/README.md
 ### `/lab2b/part06/status`
 not-started
 ### `/lab2b/part07/link`
@@ -37,6 +37,6 @@ not-started
 ### `/lab2b/part10/link`
 none
 ### `/lab2b/part10/status`
-not-started
+In progress
 ### `/lab2b/status`
-not-started
+In progress
