@@ -15,9 +15,9 @@ none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+https://github.com/Sahil-M-M/Lab-2B-Proposal/tree/main/Lab/05_i2c_traffic
 ### `/lab2b/part05/status`
-not-started
+complete
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
@@ -39,4 +39,4 @@ none
 ### `/lab2b/part10/status`
 not-started
 ### `/lab2b/status`
-not-started
+In-progress
