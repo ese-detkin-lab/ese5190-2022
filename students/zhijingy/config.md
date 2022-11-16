@@ -23,9 +23,9 @@ https://github.com/ZhijingY/ese5190-2022-lab2b-esp/tree/main/lab/06_pioscope
 ### `/lab2b/part06/status`
 Completed
 ### `/lab2b/part07/link`
-none
+https://github.com/ZhijingY/ese5190-2022-lab2b-esp/tree/main/lab/07_pio_sequencer
 ### `/lab2b/part07/status`
-not-started
+Completed
 ### `/lab2b/part08/link`
 none
 ### `/lab2b/part08/status`
