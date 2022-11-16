@@ -37,6 +37,6 @@ not-started
 ### `/lab2b/part10/link`
 https://github.com/sueqixue/ese519-2022-lab2-2B/tree/main/10_protoboard
 ### `/lab2b/part10/status`
-in-progress
+completed
 ### `/lab2b/status`
 in-progress
