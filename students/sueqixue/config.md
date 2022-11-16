@@ -25,7 +25,7 @@ completed
 ### `/lab2b/part07/link`
 https://github.com/sueqixue/ese519-2022-lab2-2B/tree/main/07_pio_sequencer
 ### `/lab2b/part07/status`
-not-started
+in-progress
 ### `/lab2b/part08/link`
 https://github.com/sueqixue/ese519-2022-lab2-2B/tree/main/08_adps_protocol
 ### `/lab2b/part08/status`
