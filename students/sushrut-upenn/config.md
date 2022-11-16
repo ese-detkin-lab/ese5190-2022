@@ -3,9 +3,9 @@ https://github.com/sushrut-upenn/ESE5190_LAB2B_PART1-10/tree/main/01
 ### `/lab2b/part01/status`
 completed
 ### `/lab2b/part02/link`
-none
+https://github.com/sushrut-upenn/ESE5190_LAB2B_PART1-10
 ### `/lab2b/part02/status`
-not-started
+completed
 ### `/lab2b/part03/link`
 none
 ### `/lab2b/part03/status`
