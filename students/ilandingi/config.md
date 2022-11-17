@@ -27,16 +27,16 @@ complete
 ### `/lab2b/part07/status`
 complete
 ### `/lab2b/part08/link`
-/NA
+[Link 8](https://github.com/ILandingI/ese5190-2022/tree/main/students/ilandingi/P8)
 ### `/lab2b/part08/status`
-Not-started
+complete
 ### `/lab2b/part09/link`
-/NA
+[Link 9 ](https://github.com/ILandingI/ese5190-2022/tree/main/students/ilandingi/P9)
 ### `/lab2b/part09/status`
-Not-started
+complete
 ### `/lab2b/part10/link`
-/NA
+[Link 10](https://github.com/ILandingI/ese5190-2022/tree/main/students/ilandingi/P10)
 ### `/lab2b/part10/status`
-Not-started
+In-progress
 ### `/lab2b/status`
 In-progress
