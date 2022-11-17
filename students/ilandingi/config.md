@@ -5,9 +5,9 @@ Complete
 ### `/lab2b/part02/link`
 https://github.com/ILandingI/LAB-2b/blob/76dc88017224b7dc1e500394df9101ea54b3358f/part%202.c
 ### `/lab2b/part02/status`
-Complete
+Almost complete
 ### `/lab2b/part03/link`
-/NA
+(https://github.com/IndigoQuadratic/ese5190-2022-lab2b-esp/tree/main/flashlight/p3)
 ### `/lab2b/part03/status`
 In-progress
 ### `/lab2b/part04/link`
