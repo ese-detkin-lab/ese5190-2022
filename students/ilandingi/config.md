@@ -5,7 +5,7 @@ Complete
 ### `/lab2b/part02/link`
 https://github.com/ILandingI/LAB-2b/blob/76dc88017224b7dc1e500394df9101ea54b3358f/part%202.c
 ### `/lab2b/part02/status`
-Almost complete
+Complete
 ### `/lab2b/part03/link`
 /NA
 ### `/lab2b/part03/status`
