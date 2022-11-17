@@ -21,7 +21,7 @@ Completed
 ### `/lab2b/part06/link`
 https://github.com/SEN316/ese519-lab2B-part1-10/tree/main/6_pioscope
 ### `/lab2b/part06/status`
-not-started
+In-progress
 ### `/lab2b/part07/link`
 https://github.com/SEN316/ese519-lab2B-part1-10/tree/main/7_pio_sequencer
 ### `/lab2b/part07/status`
