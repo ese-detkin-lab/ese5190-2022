@@ -21,7 +21,7 @@ complete
 ### `/lab2b/part06/link`
 Complete
 ### `/lab2b/part06/status`
-[not-started](https://github.com/Zhuoling11/Lab2b-Part6)
+(https://github.com/Zhuoling11/Lab2b-Part6)
 ### `/lab2b/part07/link`
 none
 ### `/lab2b/part07/status`
