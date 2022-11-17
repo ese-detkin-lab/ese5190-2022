@@ -3,25 +3,25 @@
 ### `/lab2b/part01/status`
 complete
 ### `/lab2b/part02/link`
-none
+(https://github.com/xcyxcyxcyxcy/lab2B-part02)
 ### `/lab2b/part02/status`
-in-progress
+Complete
 ### `/lab2b/part03/link`
-none
+(https://github.com/xcyxcyxcyxcy/lab2b-part03)
 ### `/lab2b/part03/status`
-not-started
+Complete
 ### `/lab2b/part04/link`
-none
+https://github.com/xcyxcyxcyxcy/lab2B-part04
 ### `/lab2b/part04/status`
-not-started
+Complete
 ### `/lab2b/part05/link`
 https://github.com/Zhuoling11/lab2b-part05/tree/main
 ### `/lab2b/part05/status`
 complete
 ### `/lab2b/part06/link`
-none
+Complete
 ### `/lab2b/part06/status`
-not-started
+[not-started](https://github.com/Zhuoling11/Lab2b-Part6)
 ### `/lab2b/part07/link`
 none
 ### `/lab2b/part07/status`
