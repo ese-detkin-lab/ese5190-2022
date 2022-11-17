@@ -1,27 +1,27 @@
 ### `/lab2b/part01/link`
-none
+[link](https://github.com/xcyxcyxcyxcy/lab2B-part-1)
 ### `/lab2b/part01/status`
-not-started
+completed
 ### `/lab2b/part02/link`
-none
+[link](https://github.com/xcyxcyxcyxcy/lab2B-part02)
 ### `/lab2b/part02/status`
-not-started
+completed
 ### `/lab2b/part03/link`
-none
+[link](https://github.com/xcyxcyxcyxcy/lab2b-part03)
 ### `/lab2b/part03/status`
-not-started
+completed
 ### `/lab2b/part04/link`
-none
+[link](https://github.com/xcyxcyxcyxcy/lab2B-part04)
 ### `/lab2b/part04/status`
-not-started
+completed
 ### `/lab2b/part05/link`
-none
+[link](https://github.com/xcyxcyxcyxcy/lab2b-part-5)
 ### `/lab2b/part05/status`
-not-started
+Completed
 ### `/lab2b/part06/link`
-none
+[link](https://github.com/xcyxcyxcyxcy/lab2B-part06)
 ### `/lab2b/part06/status`
-not-started
+Completed
 ### `/lab2b/part07/link`
 none
 ### `/lab2b/part07/status`
@@ -37,6 +37,7 @@ not-started
 ### `/lab2b/part10/link`
 none
 ### `/lab2b/part10/status`
-not-started
+[link](https://github.com/Sharonun/LAB2B)
 ### `/lab2b/status`
 not-started
+completed
