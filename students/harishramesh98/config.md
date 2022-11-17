@@ -29,7 +29,7 @@ Unsure
 ### `/lab2b/part08/link`
 https://github.com/harishramesh98/lab-2b-pre/tree/main/part_8
 ### `/lab2b/part08/status`
-not-started
+Done
 ### `/lab2b/part09/link`
 https://github.com/harishramesh98/lab-2b-pre/tree/main/part_9
 ### `/lab2b/part09/status`
