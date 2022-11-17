@@ -19,9 +19,9 @@ https://github.com/Siddmathur14/Lab2B-parts/tree/main/lab2b/part_5
 ### `/lab2b/part05/status`
 complete
 ### `/lab2b/part06/link`
-none
+https://github.com/Siddmathur14/Lab2B-parts/tree/main/lab2b/part_6
 ### `/lab2b/part06/status`
-not-started
+complete
 ### `/lab2b/part07/link`
 none
 ### `/lab2b/part07/status`
