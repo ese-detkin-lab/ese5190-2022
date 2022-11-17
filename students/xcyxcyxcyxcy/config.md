@@ -23,17 +23,17 @@ Completed
 ### `/lab2b/part06/status`
 Completed
 ### `/lab2b/part07/link`
-none
+[link](https://github.com/xcyxcyxcyxcy/lab2B-part07)
 ### `/lab2b/part07/status`
-not-started
+Completed
 ### `/lab2b/part08/link`
-none
+[link](https://github.com/xcyxcyxcyxcy/lab2B-part08)
 ### `/lab2b/part08/status`
-not-started
+Completed
 ### `/lab2b/part09/link`
-none
+[link](https://github.com/xcyxcyxcyxcy/lab2B-part09)
 ### `/lab2b/part09/status`
-not-started
+Completed
 ### `/lab2b/part10/link`
 [link](https://github.com/Sharonun/LAB2B)
 ### `/lab2b/part10/status`
