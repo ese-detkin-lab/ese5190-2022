@@ -7,25 +7,25 @@ https://github.com/arnavgadre/Lab2b_esp_Arnav/tree/main/Lab_2B_Parts/Part_2
 ### `/lab2b/part02/status`
 complete
 ### `/lab2b/part03/link`
-none
+https://github.com/arnavgadre/Lab2b_esp_Arnav/tree/main/Lab_2B_Parts/Part_3
 ### `/lab2b/part03/status`
-not-started
+completed
 ### `/lab2b/part04/link`
-none
+https://github.com/arnavgadre/Lab2b_esp_Arnav/tree/main/Lab_2B_Parts/Part_4
 ### `/lab2b/part04/status`
-not-started
+completed
 ### `/lab2b/part05/link`
 https://github.com/arnavgadre/Lab2b_esp_Arnav/blob/main/Lab_2B_Part5/Screenshots.md
 ### `/lab2b/part05/status`
 complete
 ### `/lab2b/part06/link`
-none
+https://github.com/arnavgadre/Lab2b_esp_Arnav/tree/main/Lab_2B_Parts/Part_6
 ### `/lab2b/part06/status`
-not-started
+ReadMe not updated
 ### `/lab2b/part07/link`
-none
+https://github.com/arnavgadre/Lab2b_esp_Arnav/tree/main/Lab_2B_Parts/Part_7
 ### `/lab2b/part07/status`
-not-started
+ReadMe not updated
 ### `/lab2b/part08/link`
 none
 ### `/lab2b/part08/status`
