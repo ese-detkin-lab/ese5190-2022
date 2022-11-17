@@ -25,18 +25,18 @@ Complete
 ### `/lab2b/part07/link`
 none
 ### `/lab2b/part07/status`
-not-started
+In progress
 ### `/lab2b/part08/link`
 none
 ### `/lab2b/part08/status`
-not-started
+In progrerss
 ### `/lab2b/part09/link`
 none
 ### `/lab2b/part09/status`
-not-started
+In progress
 ### `/lab2b/part10/link`
-none
+(https://github.com/Sharonun/LAB2B)
 ### `/lab2b/part10/status`
-not-started
+Complete
 ### `/lab2b/status`
-not-started
+Partial Complete
