@@ -1,42 +1,42 @@
 ### `/lab2b/part01/link`
-[part1](https://github.com/Chenwei-Tang/part2b-part1-10/blob/main/part1/part1.md)
+https://github.com/zgu74/ese5190LAB_2B_parts1-10/tree/main/01_registers
 ### `/lab2b/part01/status`
-complete
+completed
 ### `/lab2b/part02/link`
-[part2](https://github.com/Chenwei-Tang/part2b-part1-10/blob/main/part2/part2.md)
+https://github.com/zgu74/ese5190LAB_2B_parts1-10/tree/main/02_repl
 ### `/lab2b/part02/status`
-complete
+completed
 ### `/lab2b/part03/link`
-none
+https://github.com/zgu74/ese5190LAB_2B_parts1-10/tree/main/03_sequencer
 ### `/lab2b/part03/status`
-in progress
+completed
 ### `/lab2b/part04/link`
-none
+https://github.com/zgu74/ese5190LAB_2B_parts1-10/tree/main/04_slow_motion
 ### `/lab2b/part04/status`
-not-started
+completed
 ### `/lab2b/part05/link`
-[part5](https://github.com/Chenwei-Tang/part2b-part1-10/blob/main/part5/part5.md)
+https://github.com/zgu74/ese5190LAB_2B_parts1-10/tree/main/05_i2c_traffic
 ### `/lab2b/part05/status`
-complete
+completed
 ### `/lab2b/part06/link`
-none
+https://github.com/zgu74/ese5190LAB_2B_parts1-10/tree/main/06_pioscope
 ### `/lab2b/part06/status`
-not-started
+completed
 ### `/lab2b/part07/link`
-none
+https://github.com/zgu74/ese5190LAB_2B_parts1-10/tree/main/07_pio_sequencer
 ### `/lab2b/part07/status`
-not-started
+completed
 ### `/lab2b/part08/link`
-none
+https://github.com/zgu74/ese5190LAB_2B_parts1-10/tree/main/08_adps_protocol
 ### `/lab2b/part08/status`
-not-started
+completed
 ### `/lab2b/part09/link`
-none
+https://github.com/zgu74/ese5190LAB_2B_parts1-10/tree/main/09_lab_on_a_chip
 ### `/lab2b/part09/status`
-not-started
+completed
 ### `/lab2b/part10/link`
-none
+https://github.com/zgu74/ese5190LAB_2B_parts1-10/tree/main/10_protoboard
 ### `/lab2b/part10/status`
-not-started
+completed
 ### `/lab2b/status`
-not-started
+completed
