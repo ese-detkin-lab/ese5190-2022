@@ -7,11 +7,11 @@ https://github.com/Phoebe-www/ese5190-2022-lab2b-esp/blob/main/lab/02_repl/READM
 ### `/lab2b/part02/status`
 complete
 ### `/lab2b/part03/link`
-https://github.com/Phoebe-www/ese5190-2022-lab2b-esp/blob/main/lab/03_sequencer/README.md
+https://github.com/Phoebe-www/ese5190-2022-lab2b-esp/blob/main/lab/04_slow_motion/README.md
 ### `/lab2b/part03/status`
 complete
 ### `/lab2b/part04/link`
-(https://github.com/Phoebe-www/ese5190-2022-lab2b-esp/blob/main/lab/04_slow_motion/README.md)
+https://github.com/Phoebe-www/ese5190-2022-lab2b-esp/blob/main/lab/04_slow_motion/README.md
 ### `/lab2b/part04/status`
 complete
 ### `/lab2b/part05/link`
