@@ -19,17 +19,17 @@ https://github.com/Ruturajn/Lab2b-esp/tree/main/lab2b_parts/05_i2c_traffic
 ### `/lab2b/part05/status`
 complete
 ### `/lab2b/part06/link`
-none
+https://github.com/Ruturajn/Lab2b-esp/tree/main/lab2b_parts/06_pioscope
 ### `/lab2b/part06/status`
-not-started
+complete
 ### `/lab2b/part07/link`
-none
+https://github.com/Ruturajn/Lab2b-esp/tree/main/lab2b_parts/07_pio_sequencer
 ### `/lab2b/part07/status`
-not-started
+complete
 ### `/lab2b/part08/link`
-none
+https://github.com/Ruturajn/Lab2b-esp/tree/main/lab2b_parts/08_adps_protocol
 ### `/lab2b/part08/status`
-not-started
+complete
 ### `/lab2b/part09/link`
 none
 ### `/lab2b/part09/status`
