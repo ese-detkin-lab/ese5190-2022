@@ -35,9 +35,6 @@ none
 ### `/lab2b/part09/status`
 not-started
 ### `/lab2b/part10/link`
-none
-### `/lab2b/part10/status`
 [link](https://github.com/Sharonun/LAB2B)
-### `/lab2b/status`
-not-started
+### `/lab2b/part10/status`
 completed
