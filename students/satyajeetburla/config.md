@@ -29,7 +29,7 @@ complete
 ### `/lab2b/part08/link`
 https://github.com/satyajeetburla/ese519-2022-lab2-2B/tree/main/lab/08_adps_protocol
 ### `/lab2b/part08/status`
-complete
+In-Progress
 ### `/lab2b/part09/link`
 https://github.com/satyajeetburla/ese519-2022-lab2-2B/tree/main/lab/09_lab_on_a_chip
 ### `/lab2b/part09/status`
