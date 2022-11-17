@@ -48,6 +48,7 @@
 - Yu Feng: https://github.com/skyfall88888/ESE519-Lab2-Setup-Guide
 - Zhijing Yao: https://github.com/ZhijingY/ESE519-lab2/blob/main/README.md
 - Yuan Chi: https://github.com/ChiYuan9/ESE5190-Lab2-Setup
+- James Ciardullo: https://github.com/jciardullo/ESE519-Lab2A/blob/main/README.md
 
 #### M1/M2
 - TEMPLATE [Student Name: link to guide]
