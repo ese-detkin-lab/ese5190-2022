@@ -1,31 +1,31 @@
 ### `/lab2b/part01/link`
-none
+https://github.com/prateekbashista/ESE-5190-Documents/tree/main/registers_LAB2B
 ### `/lab2b/part01/status`
-done
+complete
 ### `/lab2b/part02/link`
 none
 ### `/lab2b/part02/status`
-in-progress
+complete
 ### `/lab2b/part03/link`
-none
+https://github.com/prateekbashista/ESE-5190-Documents/tree/main/sequencer_LAB2B
 ### `/lab2b/part03/status`
-in-progress
+complete
 ### `/lab2b/part04/link`
-none
+https://github.com/prateekbashista/ESE-5190-Documents/tree/main/slow_motion_LAB2B
 ### `/lab2b/part04/status`
-in-progress
+complete
 ### `/lab2b/part05/link`
 https://github.com/prateekbashista/ESE-5190-Documents/blob/8a1eff5bd850aaeddfd39956eba228789a71bfe7/Lab2b_part05.md
 ### `/lab2b/part05/status`
 complete
 ### `/lab2b/part06/link`
-none
+https://github.com/prateekbashista/ESE-5190-Documents/tree/main/logic_analyzer
 ### `/lab2b/part06/status`
-not-started
+complete
 ### `/lab2b/part07/link`
-none
+https://github.com/prateekbashista/ESE-5190-Documents/tree/main/lab07
 ### `/lab2b/part07/status`
-not-started
+complete
 ### `/lab2b/part08/link`
 none
 ### `/lab2b/part08/status`
