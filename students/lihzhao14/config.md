@@ -1,23 +1,23 @@
 ### `/lab2b/part01/link`
-none
+https://github.com/lihzhao14/ese5190_lab2B_part1-10/tree/main/01_registers
 ### `/lab2b/part01/status`
-not-started
+Completed
 ### `/lab2b/part02/link`
-none
+https://github.com/lihzhao14/ese5190_lab2B_part1-10/tree/main/02_repl
 ### `/lab2b/part02/status`
-not-started
+Completed
 ### `/lab2b/part03/link`
-none
+https://github.com/lihzhao14/ese5190_lab2B_part1-10/tree/main/03_sequencer
 ### `/lab2b/part03/status`
-not-started
+Completed
 ### `/lab2b/part04/link`
-none
+https://github.com/lihzhao14/ese5190_lab2B_part1-10/tree/main/04_slow_motion
 ### `/lab2b/part04/status`
-not-started
+Completed
 ### `/lab2b/part05/link`
-none
+https://github.com/lihzhao14/ese5190_lab2B_part1-10/tree/main/05_i2c_traffic
 ### `/lab2b/part05/status`
-not-started
+Completed
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
