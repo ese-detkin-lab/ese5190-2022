@@ -19,24 +19,24 @@ https://github.com/joyendra/ESE519-Lab2-intoTheVoid/tree/main/LAB_2B_ESP/005
 ### `/lab2b/part05/status`
 done
 ### `/lab2b/part06/link`
-none
+https://github.com/joyendra/ESE519-Lab2-intoTheVoid/blob/main/LAB_2B_ESP/06_pioscope.pio
 ### `/lab2b/part06/status`
-not-started
+done
 ### `/lab2b/part07/link`
 none
 ### `/lab2b/part07/status`
-not-started
+in progress
 ### `/lab2b/part08/link`
 none
 ### `/lab2b/part08/status`
-not-started
+in progress
 ### `/lab2b/part09/link`
 none
 ### `/lab2b/part09/status`
-not-started
+in progress
 ### `/lab2b/part10/link`
 none
 ### `/lab2b/part10/status`
-not-started
+in progress
 ### `/lab2b/status`
-not-started
+in progress
