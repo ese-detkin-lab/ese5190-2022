@@ -3,13 +3,13 @@ https://github.com/JuiUpenn11/ESE5190_LAB2B_PART1-10/tree/main/Part%201
 ### `/lab2b/part01/status`
 complete
 ### `/lab2b/part02/link`
-none
+https://github.com/JuiUpenn11/ESE5190_LAB2B_PART1-10
 ### `/lab2b/part02/status`
-not-started
+complete
 ### `/lab2b/part03/link`
-none
+https://github.com/JuiUpenn11/ESE5190_LAB2B_PART1-10
 ### `/lab2b/part03/status`
-not-started
+complete
 ### `/lab2b/part04/link`
 none
 ### `/lab2b/part04/status`
