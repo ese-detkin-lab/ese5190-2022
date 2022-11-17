@@ -8,9 +8,8 @@ https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/02_repl/README.
 Completed
 ### `/lab2b/part03/link`
 https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/04_slow_motion/README.md
-Part 3 and 4 are updated, and are combined into one.
 ### `/lab2b/part03/status`
-Completed
+Completed. Part 3 and 4 are updated, and are combined into one.
 ### `/lab2b/part04/link`
 https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/04_slow_motion/README.md
 ### `/lab2b/part04/status`
