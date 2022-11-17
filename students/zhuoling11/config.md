@@ -1,42 +1,42 @@
 ### `/lab2b/part01/link`
-none
+(https://github.com/Zhuoling11/lab2b-part01/tree/main)
 ### `/lab2b/part01/status`
-not-started
+complete
 ### `/lab2b/part02/link`
-none
+(https://github.com/xcyxcyxcyxcy/lab2B-part02)
 ### `/lab2b/part02/status`
-not-started
+Complete
 ### `/lab2b/part03/link`
-none
+(https://github.com/xcyxcyxcyxcy/lab2b-part03)
 ### `/lab2b/part03/status`
-not-started
+Complete
 ### `/lab2b/part04/link`
-none
+https://github.com/xcyxcyxcyxcy/lab2B-part04
 ### `/lab2b/part04/status`
-not-started
+Complete
 ### `/lab2b/part05/link`
-none
+https://github.com/Zhuoling11/lab2b-part05/tree/main
 ### `/lab2b/part05/status`
-not-started
+complete
 ### `/lab2b/part06/link`
-none
+Complete
 ### `/lab2b/part06/status`
-not-started
+[not-started](https://github.com/Zhuoling11/Lab2b-Part6)
 ### `/lab2b/part07/link`
 none
 ### `/lab2b/part07/status`
-not-started
+In progress
 ### `/lab2b/part08/link`
 none
 ### `/lab2b/part08/status`
-not-started
+In progrerss
 ### `/lab2b/part09/link`
 none
 ### `/lab2b/part09/status`
-not-started
+In progress
 ### `/lab2b/part10/link`
-none
+(https://github.com/Sharonun/LAB2B)
 ### `/lab2b/part10/status`
-not-started
+Complete
 ### `/lab2b/status`
-not-started
+Partial Complete
