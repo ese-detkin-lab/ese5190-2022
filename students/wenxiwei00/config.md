@@ -15,9 +15,9 @@ https://github.com/wenxiwei00/ese5190-2022-lab2b-esp/blob/main/lab/04_slow_motio
 ### `/lab2b/part04/status`
 completed
 ### `/lab2b/part05/link`
-none
+https://github.com/wenxiwei00/ese5190-2022-lab2b-esp/blob/main/lab/05_i2c_traffic/README.md/
 ### `/lab2b/part05/status`
-not-started
+completed
 ### `/lab2b/part06/link`
 https://github.com/wenxiwei00/ese5190-2022-lab2b-esp/blob/main/lab/06_pioscope/README.md/
 ### `/lab2b/part06/status`
