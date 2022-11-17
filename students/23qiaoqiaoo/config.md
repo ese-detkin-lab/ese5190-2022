@@ -23,7 +23,7 @@ not-started
 ### `/lab2b/part06/status`
 not-started
 ### `/lab2b/part07/link`
-[none](https://github.com/23qiaoqiaoo/eselab2b-program/tree/main/ese5190-2022-lab2b-esp-main/lab/07_pio_sequencer)
+(https://github.com/23qiaoqiaoo/eselab2b-program/tree/main/ese5190-2022-lab2b-esp-main/lab/07_pio_sequencer)
 ### `/lab2b/part07/status`
 not-started
 ### `/lab2b/part08/link`
