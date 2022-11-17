@@ -1,4 +1,4 @@
-REPL Video
+## REPL Video
 
 The following demonstration video shows reading from and writing to a register directly. Atomic-bit setting can also implemented.
 
