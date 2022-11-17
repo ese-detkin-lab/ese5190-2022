@@ -19,24 +19,24 @@ https://github.com/minghuin/ESE5190_Lab/tree/main/lab2B/part_5
 ### `/lab2b/part05/status`
 Finished
 ### `/lab2b/part06/link`
-none
+https://github.com/minghuin/ESE5190_Lab/tree/main/lab2B/part_6
 ### `/lab2b/part06/status`
-not-started
+Finished
 ### `/lab2b/part07/link`
-none
+https://github.com/minghuin/ESE5190_Lab/tree/main/lab2B/part_7
 ### `/lab2b/part07/status`
-not-started
+Finished
 ### `/lab2b/part08/link`
-none
+https://github.com/minghuin/ESE5190_Lab/tree/main/lab2B/part_8
 ### `/lab2b/part08/status`
-not-started
+In Progress
 ### `/lab2b/part09/link`
-none
+https://github.com/minghuin/ESE5190_Lab/tree/main/lab2B/part_9
 ### `/lab2b/part09/status`
-not-started
+In Progress
 ### `/lab2b/part10/link`
-none
+https://github.com/minghuin/ESE5190_Lab/tree/main/lab2B/part_10
 ### `/lab2b/part10/status`
-not-started
+In Progress
 ### `/lab2b/status`
-not-started
+In Progress, Completed 7/10
