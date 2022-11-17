@@ -17,15 +17,15 @@ complete
 ### `/lab2b/part05/link`
 https://github.com/ndobrad/ese5190-2022-lab2b-esp/blob/main/lab/05_i2c_traffic
 ### `/lab2b/part05/status`
-in-progress
+complete
 ### `/lab2b/part06/link`
 https://github.com/ndobrad/ese5190-2022-lab2b-esp/blob/main/lab/06_pioscope
 ### `/lab2b/part06/status`
-not-started
+complete
 ### `/lab2b/part07/link`
 https://github.com/ndobrad/ese5190-2022-lab2b-esp/blob/main/lab/07_pio_sequencer
 ### `/lab2b/part07/status`
-not-started
+in-progress
 ### `/lab2b/part08/link`
 https://github.com/ndobrad/ese5190-2022-lab2b-esp/blob/main/lab/08_adps_protocol
 ### `/lab2b/part08/status`
