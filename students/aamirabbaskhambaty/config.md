@@ -1,7 +1,7 @@
 ### `/lab2b/part01/link`
-none
+https://github.com/aamirabbaskhambaty/ese519-Lab-2B-Proposal/tree/main/lab/01_registers
 ### `/lab2b/part01/status`
-not-started
+completed
 ### `/lab2b/part02/link`
 none
 ### `/lab2b/part02/status`
