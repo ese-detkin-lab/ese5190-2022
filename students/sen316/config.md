@@ -1,42 +1,42 @@
 ### `/lab2b/part01/link`
-none
+https://github.com/SEN316/ese519-lab2B-part1-10/tree/main/2_repl
 ### `/lab2b/part01/status`
-not-started
+Completed
 ### `/lab2b/part02/link`
-none
+https://github.com/SEN316/ese519-lab2B-part1-10/tree/main/2_repl
 ### `/lab2b/part02/status`
-not-started
+Completed
 ### `/lab2b/part03/link`
-none
+https://github.com/SEN316/ese519-lab2B-part1-10/tree/main/3_sequencer
 ### `/lab2b/part03/status`
-not-started
+Completed
 ### `/lab2b/part04/link`
-none
+https://github.com/SEN316/ese519-lab2B-part1-10/tree/main/4_slow_motion
 ### `/lab2b/part04/status`
-not-started
+Completed
 ### `/lab2b/part05/link`
-none
+https://github.com/SEN316/ese519-lab2B-part1-10/tree/main/5_i2c_traffic
 ### `/lab2b/part05/status`
-not-started
+Completed
 ### `/lab2b/part06/link`
-none
+https://github.com/SEN316/ese519-lab2B-part1-10/tree/main/6_pioscope
 ### `/lab2b/part06/status`
 not-started
 ### `/lab2b/part07/link`
-none
+https://github.com/SEN316/ese519-lab2B-part1-10/tree/main/7_pio_sequencer
 ### `/lab2b/part07/status`
 not-started
 ### `/lab2b/part08/link`
-none
+https://github.com/SEN316/ese519-lab2B-part1-10/tree/main/8_adps_protocol
 ### `/lab2b/part08/status`
 not-started
 ### `/lab2b/part09/link`
-none
+https://github.com/SEN316/ese519-lab2B-part1-10/tree/main/9_lab_on_a_chip
 ### `/lab2b/part09/status`
 not-started
 ### `/lab2b/part10/link`
-none
+https://github.com/SEN316/ese519-lab2B-part1-10/tree/main/10_protoboard
 ### `/lab2b/part10/status`
 not-started
 ### `/lab2b/status`
-not-started
+In-progress
