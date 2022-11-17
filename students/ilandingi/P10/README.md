@@ -2,30 +2,13 @@
 
 Add support for your custom circuit board to your sequencer, and give a demo.
 
-### Below is our protoboard demo. After clicking the "Protoboard_demo" below, you will see our demo.
+### Below is demo.
+Link 
+<img src="![e12e6e01-8918-4448-b4a9-8d032e6b7783](https://user-images.githubusercontent.com/96441697/202354572-3bb42809-d127-4639-a876-1961752a8dcc.gif)" width="48">
 
-[Protoboard_demo](https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/protoboard_demo.md)
 
-### Demo
 
-<div align=center>
-<img src="https://github.com/lihzhao14/ese-5190-lab2-B/blob/main/image/protoboard_demo.gif" width="700">  
-</div>
-
-##### Logic Table
-
-|InputA|InputB|Output|
-| :---: | :---: | :---: |
-| 0 | 0 | 0 |
-| 0 | 1 | 0 |
-| 1 | 0 | 0 |
-| 1 | 1 | 1 |
-
-##### Logic Table by LED
-
-|InputA|InputB|Output|
-| :---: | :---: | :---: |
-| Off | Off | Off |
-| Off | Green1 | Off |
-| Green2 | Off | Off |
-| Green2 | Green1 | Red |
+## Design Motivation:
+Build a led light strip controller, which can change different colors or flashing frequencies in different scenes.(Like party mode or movie mode)
+![image](https://user-images.githubusercontent.com/96441697/202352661-c72b1ac9-7a80-4fda-b066-79ed6559ba10.png)
+![image](https://user-images.githubusercontent.com/96441697/202352689-391e677a-2ce9-44af-b01a-11dfeb4ea99f.png)
