@@ -1,42 +1,42 @@
 ### `/lab2b/part01/link`
-none
+[part01](https://github.com/ryanhpan/ese5190_lab2B_part1-10)
 ### `/lab2b/part01/status`
-not-started
+completed
 ### `/lab2b/part02/link`
-none
+[part02](https://github.com/ryanhpan/ese5190_lab2B_part1-10)
 ### `/lab2b/part02/status`
-not-started
+completed
 ### `/lab2b/part03/link`
-none
+[part03](https://github.com/ryanhpan/ese5190_lab2B_part1-10)
 ### `/lab2b/part03/status`
-not-started
+completed
 ### `/lab2b/part04/link`
-none
+[part04](https://github.com/ryanhpan/ese5190_lab2B_part1-10)
 ### `/lab2b/part04/status`
-not-started
+completed
 ### `/lab2b/part05/link`
-none
+[part05](https://github.com/ryanhpan/ese5190_lab2B_part1-10)
 ### `/lab2b/part05/status`
-not-started
+completed
 ### `/lab2b/part06/link`
-none
+[part06](https://github.com/ryanhpan/ese5190_lab2B_part1-10)
 ### `/lab2b/part06/status`
-not-started
+completed
 ### `/lab2b/part07/link`
-none
+[part07](https://github.com/ryanhpan/ese5190_lab2B_part1-10)
 ### `/lab2b/part07/status`
-not-started
+in-progress
 ### `/lab2b/part08/link`
-none
+[part08](https://github.com/ryanhpan/ese5190_lab2B_part1-10)
 ### `/lab2b/part08/status`
-not-started
+completed
 ### `/lab2b/part09/link`
-none
+[part09](https://github.com/ryanhpan/ese5190_lab2B_part1-10)
 ### `/lab2b/part09/status`
-not-started
+in-progress
 ### `/lab2b/part10/link`
-none
+[part10](https://github.com/ryanhpan/ese5190_lab2B_part1-10)
 ### `/lab2b/part10/status`
-not-started
+in-progress
 ### `/lab2b/status`
-not-started
+in-progress 85%
