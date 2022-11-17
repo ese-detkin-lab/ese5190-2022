@@ -19,21 +19,21 @@ not-started
 ### `/lab2b/part05/status`
 done
 ### `/lab2b/part06/link`
-none
+[link](https://github.com/IndigoQuadratic/ese5190-2022-lab2b-esp/tree/main/flashlight/p6)
 ### `/lab2b/part06/status`
-not-started
+done
 ### `/lab2b/part07/link`
-none
+[link](https://github.com/IndigoQuadratic/ese5190-2022-lab2b-esp/tree/main/flashlight/p7)
 ### `/lab2b/part07/status`
-not-started
+done
 ### `/lab2b/part08/link`
-none
+[link](https://github.com/IndigoQuadratic/ese5190-2022-lab2b-esp/tree/main/flashlight/p8)
 ### `/lab2b/part08/status`
-not-started
+in progress
 ### `/lab2b/part09/link`
-none
+[link](https://github.com/IndigoQuadratic/ese5190-2022-lab2b-esp/tree/main/flashlight/p9)
 ### `/lab2b/part09/status`
-not-started
+done
 ### `/lab2b/part10/link`
 none
 ### `/lab2b/part10/status`
