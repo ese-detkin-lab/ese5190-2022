@@ -1,42 +1,42 @@
 ### `/lab2b/part01/link`
-none
+[Part 01](https://github.com/SurajMarthy1001/Lab2B_ESP/tree/main/lab2b/part01)
 ### `/lab2b/part01/status`
-in-progress
+complete
 ### `/lab2b/part02/link`
-[Part 02](https://github.com/SurajMarthy1001/ese5190-2022-suraj/tree/main/students/surajmarthy1001/code/part02)
+[Part 02](https://github.com/SurajMarthy1001/Lab2B_ESP/tree/main/lab2b/part02)
 ### `/lab2b/part02/status`
-in-progress
+complete
 ### `/lab2b/part03/link`
-[Part 03](https://github.com/SurajMarthy1001/ese5190-2022-suraj/tree/main/students/surajmarthy1001/code/part03)
+[Part 03](https://github.com/SurajMarthy1001/Lab2B_ESP/tree/main/lab2b/part03)
 ### `/lab2b/part03/status`
-in-progress
+complete
 ### `/lab2b/part04/link`
-none
+[Part 04](https://github.com/SurajMarthy1001/Lab2B_ESP/tree/main/lab2b/part04)
 ### `/lab2b/part04/status`
-in-progress
+complete
 ### `/lab2b/part05/link`
-[Part 05](https://github.com/SurajMarthy1001/ese5190-2022-suraj/tree/main/students/surajmarthy1001/code/part05)
+[Part 05](https://github.com/SurajMarthy1001/Lab2B_ESP/tree/main/lab2b/part05)
 ### `/lab2b/part05/status`
 complete
 ### `/lab2b/part06/link`
-none
+[Part 06](https://github.com/SurajMarthy1001/Lab2B_ESP/tree/main/lab2b/part06)
 ### `/lab2b/part06/status`
-not-started
+complete
 ### `/lab2b/part07/link`
-none
+[Part 07](https://github.com/SurajMarthy1001/Lab2B_ESP/tree/main/lab2b/part07)
 ### `/lab2b/part07/status`
-not-started
+in-progress
 ### `/lab2b/part08/link`
-none
+[Part 08](https://github.com/SurajMarthy1001/Lab2B_ESP/tree/main/lab2b/part08)
 ### `/lab2b/part08/status`
-not-started
+in-progress
 ### `/lab2b/part09/link`
-none
+[Part 09](https://github.com/SurajMarthy1001/Lab2B_ESP/tree/main/lab2b/part09)
 ### `/lab2b/part09/status`
-not-started
+in-progress
 ### `/lab2b/part10/link`
-none
+[Part 10](https://github.com/SurajMarthy1001/Lab2B_ESP/tree/main/lab2b/part10)
 ### `/lab2b/part10/status`
-not-started
+in-progress
 ### `/lab2b/status`
-not-started
+in-progress
