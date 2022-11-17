@@ -1,42 +1,42 @@
 ### `/lab2b/part01/link`
-none
+[here](https://github.com/koushik-sss/LAB2B_ESE5190/blob/main/Part-1/part1.c)
 ### `/lab2b/part01/status`
-not-started
+complete
 ### `/lab2b/part02/link`
-none
+[here](https://github.com/koushik-sss/LAB2B_ESE5190/tree/main/Part-2)
 ### `/lab2b/part02/status`
-not-started
+complete
 ### `/lab2b/part03/link`
-none
+[Here](https://github.com/koushik-sss/LAB2B_ESE5190/tree/main/Part-3)
 ### `/lab2b/part03/status`
-not-started
+complete
 ### `/lab2b/part04/link`
-none
+[here](https://github.com/koushik-sss/LAB2B_ESE5190/tree/main/Part-4)
 ### `/lab2b/part04/status`
-not-started
+complete
 ### `/lab2b/part05/link`
-none
+[Here](https://github.com/koushik-sss/LAB2B_ESE5190/blob/main/Part-5/part5.md)
 ### `/lab2b/part05/status`
-not-started
+complete
 ### `/lab2b/part06/link`
-none
+[here](https://github.com/koushik-sss/LAB2B_ESE5190/tree/main/Part-6)
 ### `/lab2b/part06/status`
-not-started
+complete
 ### `/lab2b/part07/link`
 none
 ### `/lab2b/part07/status`
-not-started
+in-progress
 ### `/lab2b/part08/link`
 none
 ### `/lab2b/part08/status`
-not-started
+in-progress
 ### `/lab2b/part09/link`
 none
 ### `/lab2b/part09/status`
-not-started
+in-progress
 ### `/lab2b/part10/link`
 none
 ### `/lab2b/part10/status`
-not-started
+in-progress
 ### `/lab2b/status`
-not-started
+in-progress
