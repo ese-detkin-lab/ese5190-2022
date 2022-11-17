@@ -3,40 +3,40 @@ https://github.com/sugahiraeth/Lab2Bese5190/blob/main/Parts/Part1
 ### `/lab2b/part01/status`
 complete
 ### `/lab2b/part02/link`
-none
+https://github.com/sugahiraeth/Lab2Bese5190/tree/main/Parts/Part2
 ### `/lab2b/part02/status`
-not-started
+complete
 ### `/lab2b/part03/link`
-none
+https://github.com/sugahiraeth/Lab2Bese5190/tree/main/Parts/Part3
 ### `/lab2b/part03/status`
-not-started
+complete
 ### `/lab2b/part04/link`
-none
+https://github.com/sugahiraeth/Lab2Bese5190/tree/main/Parts/Part4
 ### `/lab2b/part04/status`
-not-started
+complete
 ### `/lab2b/part05/link`
 https://github.com/sugahiraeth/Lab2Bese5190/tree/main/Parts/Part5
 ### `/lab2b/part05/status`
 complete
 ### `/lab2b/part06/link`
-none
+https://github.com/sugahiraeth/Lab2Bese5190/tree/main/Parts/Part6
 ### `/lab2b/part06/status`
-not-started
+complete
 ### `/lab2b/part07/link`
-none
+https://github.com/sugahiraeth/Lab2Bese5190/tree/main/Parts/Part7
 ### `/lab2b/part07/status`
-not-started
+in prog
 ### `/lab2b/part08/link`
-none
+https://github.com/sugahiraeth/Lab2Bese5190/tree/main/Parts/Part8
 ### `/lab2b/part08/status`
-not-started
+complete
 ### `/lab2b/part09/link`
-none
+https://github.com/sugahiraeth/Lab2Bese5190/tree/main/Parts/Part9
 ### `/lab2b/part09/status`
-not-started
+in prog
 ### `/lab2b/part10/link`
-none
+https://github.com/sugahiraeth/Lab2Bese5190/tree/main/Parts/Part10
 ### `/lab2b/part10/status`
 not-started
 ### `/lab2b/status`
-not-started
+done
