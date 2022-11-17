@@ -7,9 +7,9 @@ https://github.com/wenxiwei00/ese5190-2022-lab2b-esp/blob/main/lab/02_repl/READM
 ### `/lab2b/part02/status`
 Completed
 ### `/lab2b/part03/link`
-none
+https://github.com/wenxiwei00/ese5190-2022-lab2b-esp/tree/main/lab/03_sequencer/
 ### `/lab2b/part03/status`
-not-started
+Completed
 ### `/lab2b/part04/link`
 https://github.com/wenxiwei00/ese5190-2022-lab2b-esp/blob/main/lab/04_slow_motion/README.md/
 ### `/lab2b/part04/status`
