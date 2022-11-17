@@ -23,9 +23,9 @@ complete
 ### `/lab2b/part06/status`
 complete
 ### `/lab2b/part07/link`
-none
+https://github.com/Phoebe-www/ese5190-2022-lab2b-esp/blob/main/lab/07_pio_sequencer/README.md
 ### `/lab2b/part07/status`
-not-started
+complete
 ### `/lab2b/part08/link`
 none
 ### `/lab2b/part08/status`
