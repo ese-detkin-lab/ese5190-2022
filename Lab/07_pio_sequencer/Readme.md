@@ -32,7 +32,7 @@ We used pio_sm_get(pio,sm1) function instead of gpio_get(boot_pin) function.
 ## Output:
 https://user-images.githubusercontent.com/73771085/202616164-590b2e2e-2b38-4916-8a20-9b2992f3571c.mp4
 
-## Terminal:
+## Output on Terminal::
 ![terminal](https://user-images.githubusercontent.com/73771085/202694841-183029a5-3e65-4429-a3c4-f12596d95814.jpeg)
 
 ## TXT File:
