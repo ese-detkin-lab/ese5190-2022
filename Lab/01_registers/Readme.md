@@ -1,4 +1,8 @@
-# Registers Video
+      Sahil Mahendra Mangaonkar
+      LinkedIn: https://www.linkedin.com/in/sahil-m-39a2671b0
+      Tested on:  HP Probook 650 G1 (15.6-inch, 2014), Window 10
+
+### Registers Video
 
 The following demonstration video shows reading from a register directly. In this program the neopixel LED blinks, if the on-board BOOT button is pressed.
 
