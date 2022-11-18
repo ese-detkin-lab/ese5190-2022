@@ -27,13 +27,13 @@ https://github.com/Ruturajn/Lab2b-esp/tree/main/lab2b_parts/07_pio_sequencer
 ### `/lab2b/part07/status`
 complete
 ### `/lab2b/part08/link`
-https://github.com/Ruturajn/Lab2b-esp/tree/main/lab2b_parts/08_adps_protocol
+https://github.com/Ruturajn/Lab2b-esp/tree/main/lab2b_parts/08_apds_protocol
 ### `/lab2b/part08/status`
 complete
 ### `/lab2b/part09/link`
-none
+https://github.com/Ruturajn/Lab2b-esp/tree/main/lab2b_parts/09_lab_on_chip
 ### `/lab2b/part09/status`
-not-started
+In-Progress: Interated the `APDS9960` sensor and the `ws2812`.
 ### `/lab2b/part10/link`
 none
 ### `/lab2b/part10/status`
