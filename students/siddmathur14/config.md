@@ -27,13 +27,13 @@ https://github.com/Siddmathur14/Lab2B-parts/tree/main/lab2b/part_7
 ### `/lab2b/part07/status`
 complete
 ### `/lab2b/part08/link`
-none
+https://github.com/Siddmathur14/Lab2B-parts/tree/main/lab2b/part_8
 ### `/lab2b/part08/status`
-not-started
+in progress
 ### `/lab2b/part09/link`
 none
 ### `/lab2b/part09/status`
-not-started
+in progress
 ### `/lab2b/part10/link`
 none
 ### `/lab2b/part10/status`
