@@ -23,17 +23,17 @@ https://github.com/joyendra/ESE519-Lab2-intoTheVoid/blob/main/LAB_2B_ESP/06_pios
 ### `/lab2b/part06/status`
 done
 ### `/lab2b/part07/link`
-none
+https://github.com/joyendra/ESE519-Lab2-intoTheVoid/blob/main/LAB_2B_ESP/07_pio_sequencer.c
 ### `/lab2b/part07/status`
-in progress
+done
 ### `/lab2b/part08/link`
-none
+https://github.com/joyendra/ESE519-Lab2-intoTheVoid/blob/main/LAB_2B_ESP/08_apds_protocol.c
 ### `/lab2b/part08/status`
-in progress
+done
 ### `/lab2b/part09/link`
-none
+https://github.com/joyendra/ESE519-Lab2-intoTheVoid/blob/main/LAB_2B_ESP/09_lab_on_a_chip.c
 ### `/lab2b/part09/status`
-in progress
+Did as much as I could understand
 ### `/lab2b/part10/link`
 none
 ### `/lab2b/part10/status`
