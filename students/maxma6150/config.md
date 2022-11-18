@@ -40,3 +40,5 @@ https://github.com/MaxMa6150/ese5190-2022-lab2b-esp/tree/main/lab/10_protoboard
 in-progress
 ### `/lab2b/status`
 in-progress
+### `/lab2b/writeup`
+https://github.com/MaxMa6150/ese5190-2022-lab2b-esp/blob/main/lab/README.md
