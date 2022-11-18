@@ -27,13 +27,13 @@ none
 ### `/lab2b/part07/status`
 not-started
 ### `/lab2b/part08/link`
-none
+https://github.com/WenyuWang1/ESE_lab_2B/tree/main/lab/08_adps_protocol
 ### `/lab2b/part08/status`
-not-started
+completed
 ### `/lab2b/part09/link`
-none
+https://github.com/WenyuWang1/ESE_lab_2B/tree/main/lab/09_lab_on_a_chip
 ### `/lab2b/part09/status`
-not-started
+completed
 ### `/lab2b/part10/link`
 none
 ### `/lab2b/part10/status`
