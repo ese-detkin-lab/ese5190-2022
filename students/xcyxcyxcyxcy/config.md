@@ -23,7 +23,7 @@ Completed
 ### `/lab2b/part06/status`
 Completed
 ### `/lab2b/part07/link`
-[link](https://github.com/xcyxcyxcyxcy/lab2B-part07)
+[link](https://github.com/Sharonun/Lab2B-part2-7/tree/main/part7)
 ### `/lab2b/part07/status`
 Completed
 ### `/lab2b/part08/link`
