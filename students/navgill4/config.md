@@ -39,4 +39,6 @@ none
 ### `/lab2b/part10/status`
 not-started
 ### `/lab2b/status`
-not-started
+in progress
+### `/lab2b/feedback/link`
+https://github.com/navgill4/ESE5190-Lab2B/blob/main/Lab%20Feedback/Feedback.md
