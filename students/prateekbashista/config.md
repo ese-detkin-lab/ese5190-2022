@@ -3,7 +3,7 @@ https://github.com/prateekbashista/ESE-5190-Documents/tree/main/registers_LAB2B
 ### `/lab2b/part01/status`
 complete
 ### `/lab2b/part02/link`
-none
+https://github.com/prateekbashista/ESE-5190-Documents/tree/main/repl_LAB2B
 ### `/lab2b/part02/status`
 complete
 ### `/lab2b/part03/link`
