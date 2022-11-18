@@ -1,42 +1,44 @@
 ### `/lab2b/part01/link`
-none
+(https://github.com/zizhanghan/Part1-10/tree/main/Part1)
 ### `/lab2b/part01/status`
-not-started
+completed
 ### `/lab2b/part02/link`
-none
+(https://github.com/zizhanghan/Part1-10/tree/main/Part2)
 ### `/lab2b/part02/status`
-not-started
+completed
 ### `/lab2b/part03/link`
-none
+(https://github.com/zizhanghan/Part1-10/tree/main/Part3)
 ### `/lab2b/part03/status`
-not-started
+completed
 ### `/lab2b/part04/link`
-none
+(https://github.com/zizhanghan/Part1-10/tree/main/Part4)
 ### `/lab2b/part04/status`
-not-started
+completed
 ### `/lab2b/part05/link`
-none
+(https://github.com/zizhanghan/osl)
 ### `/lab2b/part05/status`
-not-started
+completed
 ### `/lab2b/part06/link`
-none
+(https://github.com/zizhanghan/Part1-10/tree/main/Part6)
 ### `/lab2b/part06/status`
-not-started
+completed
 ### `/lab2b/part07/link`
-none
+(https://github.com/zizhanghan/Part1-10/tree/main/Part7)
 ### `/lab2b/part07/status`
-not-started
+completed
 ### `/lab2b/part08/link`
 none
 ### `/lab2b/part08/status`
-not-started
+progressing
 ### `/lab2b/part09/link`
 none
 ### `/lab2b/part09/status`
-not-started
+progressing
 ### `/lab2b/part10/link`
 none
 ### `/lab2b/part10/status`
-not-started
+progressing
 ### `/lab2b/status`
 not-started
+### `/lab2b/questions
+(https://github.com/zizhanghan/Part1-10/blob/main/questions.md)
