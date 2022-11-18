@@ -1,42 +1,42 @@
 ### `/lab2b/part01/link`
-none
-### `/lab2b/part01/status`
-not-started
+https://github.com/Xiaayu/ese5190-lab2b-10Parts/tree/main/ese5190-lab2b-Part1
+### `/lab2b/part01/status`.
+Complete.
 ### `/lab2b/part02/link`
-none
+https://github.com/Xiaayu/ese5190-lab2b-10Parts/tree/main/ese5190-lab2b-Part2
 ### `/lab2b/part02/status`
-not-started
+Complete.
 ### `/lab2b/part03/link`
-none
+https://github.com/Xiaayu/ese5190-lab2b-10Parts/tree/main/ese5190-lab2b-Part3
 ### `/lab2b/part03/status`
-not-started
+Complete.
 ### `/lab2b/part04/link`
-none
+https://github.com/Xiaayu/ese5190-lab2b-10Parts/tree/main/ese5190-lab2b-Part4
 ### `/lab2b/part04/status`
-not-started
+Complete.
 ### `/lab2b/part05/link`
-none
+https://github.com/Xiaayu/ese5190-lab2b-10Parts/tree/main/ese5190-lab2b-Part5
 ### `/lab2b/part05/status`
-not-started
+Complete.
 ### `/lab2b/part06/link`
-none
+https://github.com/Xiaayu/ese5190-lab2b-10Parts/tree/main/ese5190-lab2b-Part6
 ### `/lab2b/part06/status`
-not-started
+Complete.
 ### `/lab2b/part07/link`
-none
+https://github.com/Xiaayu/ese5190-lab2b-10Parts/tree/main/ese5190-lab2b-Part7
 ### `/lab2b/part07/status`
-not-started
+Complete.
 ### `/lab2b/part08/link`
-none
+https://github.com/Xiaayu/ese5190-lab2b-10Parts/tree/main/ese5190-lab2b-Part8
 ### `/lab2b/part08/status`
-not-started
+Complete.
 ### `/lab2b/part09/link`
-none
+https://github.com/Xiaayu/ese5190-lab2b-10Parts/tree/main/ese5190-lab2b-Part9
 ### `/lab2b/part09/status`
-not-started
+Complete.
 ### `/lab2b/part10/link`
-none
+https://github.com/Xiaayu/ese5190-lab2b-10Parts/tree/main/ese5190-lab2b-Part10
 ### `/lab2b/part10/status`
-not-started
+Complete.
 ### `/lab2b/status`
-not-started
+Complete.
