@@ -1,3 +1,7 @@
+      Sahil Mahendra Mangaonkar
+      LinkedIn: https://www.linkedin.com/in/sahil-m-39a2671b0
+      Tested on:  HP Probook 650 G1 (15.6-inch, 2014), Window 10
+
 ## Replay slow motion
 
 https://user-images.githubusercontent.com/73771085/202311864-71f87ab9-826a-4340-b184-c1f875ad52b5.mp4
