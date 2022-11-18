@@ -40,3 +40,5 @@ https://github.com/SEN316/ese519-lab2B-part1-10/tree/main/10_protoboard
 not-started
 ### `/lab2b/status`
 In-progress
+### `/lab2b/feedback`
+
