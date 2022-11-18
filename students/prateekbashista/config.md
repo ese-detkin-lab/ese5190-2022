@@ -27,16 +27,16 @@ https://github.com/prateekbashista/ESE-5190-Documents/tree/main/lab07
 ### `/lab2b/part07/status`
 complete
 ### `/lab2b/part08/link`
-none
+https://github.com/prateekbashista/ESE-5190-Documents/tree/main/lab08
 ### `/lab2b/part08/status`
-not-started
+complete
 ### `/lab2b/part09/link`
 none
 ### `/lab2b/part09/status`
-not-started
+complete
 ### `/lab2b/part10/link`
 none
 ### `/lab2b/part10/status`
-not-started
+complete
 ### `/lab2b/status`
-not-started
+progressing towards completion
