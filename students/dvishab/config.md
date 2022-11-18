@@ -33,10 +33,10 @@ Done
 ### `/lab2b/part09/link`
 https://github.com/dvishab/Lab2B-part1-to-10-status-update/tree/main/Part9
 ### `/lab2b/part09/status`
-Done
+in progress
 ### `/lab2b/part10/link`
 https://github.com/dvishab/Lab2B-part1-to-10-status-update/tree/main/Part10
 ### `/lab2b/part10/status`
-Done
+in progress
 ### `/lab2b/status`
-Done
+in progress
