@@ -9,8 +9,8 @@ Create a 'sequencer' that allows you to record BOOT button presses and play them
 * record 'macros' (a sequence of console commands) based on keystrokes in your serial console
 * hand-edit a list of register read/write commands on your laptop, and play them on the RP2040
 * include multiple I/O sources in a recording, and remap among the following:
-           * inputs: BOOT button, console commands, register read/write commands
-           * outputs: neopixel color, neopixel brightness, data over serial, register read/write commands
+* inputs: BOOT button, console commands, register read/write commands
+* outputs: neopixel color, neopixel brightness, data over serial, register read/write commands
 
 # Sequencer Output #
 
