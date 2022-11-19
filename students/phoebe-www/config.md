@@ -41,4 +41,8 @@ not-started
 ### `/lab2b/status`
 not-started
 
-## 
+## Friday Submission Answer
+
+1. Which parts of the lab specification have you found most confusing or difficult to understand?
+2. 
+
