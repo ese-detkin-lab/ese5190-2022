@@ -35,10 +35,10 @@ https://github.com/joyendra/ESE519-Lab2-intoTheVoid/blob/main/LAB_2B_ESP/09_lab_
 ### `/lab2b/part09/status`
 Did as much as I could understand
 ### `/lab2b/part10/link`
-none
+https://github.com/joyendra/ESE519-Lab2-intoTheVoid/tree/main/LAB_2B_ESP/010_protoboard
 ### `/lab2b/part10/status`
-in progress
+Completed
 ### `/lab2b/status`
-in progress
+Completed
 ### `\feedback`
 https://github.com/joyendra/ESE519-Lab2-intoTheVoid/blob/main/LAB_2B_ESP/feedback.md
