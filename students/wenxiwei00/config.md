@@ -35,8 +35,8 @@ none
 ### `/lab2b/part09/status`
 not-started
 ### `/lab2b/part10/link`
-none
+https://github.com/wenxiwei00/ese5190-2022-lab2b-esp/tree/main/lab/10_protoboard
 ### `/lab2b/part10/status`
-not-started
+Completed
 ### `/lab2b/status`
-not-started
+Almost complete
