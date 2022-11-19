@@ -29,14 +29,14 @@ complete
 ### `/lab2b/part08/link`
 https://github.com/Siddmathur14/Lab2B-parts/tree/main/lab2b/part_8
 ### `/lab2b/part08/status`
-in progress
+complete
 ### `/lab2b/part09/link`
-none
+https://github.com/Siddmathur14/Lab2B-parts/tree/main/lab2b/part_9
 ### `/lab2b/part09/status`
-in progress
+complete
 ### `/lab2b/part10/link`
-none
+https://github.com/Siddmathur14/Lab2B-parts/tree/main/lab2b/part_10
 ### `/lab2b/part10/status`
-not-started
+complete
 ### `/lab2b/status`
-not-started
+complete
