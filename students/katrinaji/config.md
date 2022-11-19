@@ -25,18 +25,18 @@ not-started
 ### `/lab2b/part07/link`
 none
 ### `/lab2b/part07/status`
-not-started
+Complete
 ### `/lab2b/part08/link`
 none
 ### `/lab2b/part08/status`
-not-started
+Complete
 ### `/lab2b/part09/link`
 none
 ### `/lab2b/part09/status`
-not-started
+Complete
 ### `/lab2b/part10/link`
 none
 ### `/lab2b/part10/status`
-not-started
+Complete
 ### `/lab2b/status`
-in-progess
+Complete
