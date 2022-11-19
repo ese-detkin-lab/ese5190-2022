@@ -31,12 +31,12 @@ https://github.com/prateekbashista/ESE-5190-Documents/tree/main/lab08
 ### `/lab2b/part08/status`
 complete
 ### `/lab2b/part09/link`
-none
+https://github.com/prateekbashista/ESE-5190-Documents/tree/main/lab09
 ### `/lab2b/part09/status`
 complete
 ### `/lab2b/part10/link`
-none
+https://github.com/prateekbashista/ESE-5190-Documents/tree/main/LAB2B_lab10
 ### `/lab2b/part10/status`
 complete
 ### `/lab2b/status`
-progressing towards completion
+complete
