@@ -37,6 +37,6 @@ done
 ### `/lab2b/part10/link`
 [Part10](https://github.com/HaoliangYou/ese5190-2022-lab2b-esp/tree/main/lab/10_protoboard)
 ### `/lab2b/part10/status`
-in progress
+done
 ### `/lab2b/status`
-in progress
+done
