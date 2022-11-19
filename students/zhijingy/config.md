@@ -17,7 +17,7 @@ Completed
 ### `/lab2b/part05/link`
 https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/05_i2c_traffic/README.md
 ### `/lab2b/part05/status`
-complete
+Complete
 ### `/lab2b/part06/link`
 https://github.com/ZhijingY/ese5190-2022-lab2b-esp/tree/main/lab/06_pioscope
 ### `/lab2b/part06/status`
