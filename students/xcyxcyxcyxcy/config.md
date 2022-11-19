@@ -40,3 +40,5 @@ Completed
 completed
 ### `/lab2b/status`
  Completed
+### `/lab2b/feedback`
+[link](https://github.com/xcyxcyxcyxcy/lab2B-feedback)
