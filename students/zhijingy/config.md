@@ -50,4 +50,8 @@ Done.
         inputs: BOOT button, console commands, register read/write commands
         outputs: neopixel color, neopixel brightness, data over serial, register read/write commands
 
-    The 
+    It is not quite clear how to play the register read/write commands on the RP2040. Many questions occured to me: do we need to handle the registers that do not allow reading? Shall we explicitly demonstrates the register reading/writing on the RP2040 by flashing the lights/tranferring data on specific bus, or just send a success/failure notice after the reading/writing attempt? How do we make the MCU interpret the literal commands?
+    
+2. Progamming the PIO files, especially the assembly part is the modt confusing part to me. It requires many efforts on reading the documentations and datasheets regarding the PIO techniques.
+
+3. C/Python co-design for sequencer is the most challenging part to me, especially the "serial" library utilized in the Python code. I have 
