@@ -19,24 +19,25 @@ https://github.com/koushik-sss/LAB2B_ESE5190/tree/main/Part-5
 ### `/lab2b/part05/status`
 complete
 ### `/lab2b/part06/link`
-none
+https://github.com/koushik-sss/LAB2B_ESE5190/tree/main/Part-6
+complete
 ### `/lab2b/part06/status`
-in-progress
+complete
 ### `/lab2b/part07/link`
-in-progress
+https://github.com/koushik-sss/LAB2B_ESE5190/tree/main/Part-7
 ### `/lab2b/part07/status`
-in-progress
+complete
 ### `/lab2b/part08/link`
-none
+https://github.com/koushik-sss/LAB2B_ESE5190/tree/main/Part-8
 ### `/lab2b/part08/status`
-in-progress
+complete
 ### `/lab2b/part09/link`
-none
+https://github.com/koushik-sss/LAB2B_ESE5190/tree/main/Part-9
 ### `/lab2b/part09/status`
-in-progress
+complete
 ### `/lab2b/part10/link`
-none
+https://github.com/koushik-sss/LAB2B_ESE5190/tree/main/Part-10
 ### `/lab2b/part10/status`
-in-progress
+complete
 ### `/lab2b/status`
-in-progress
+complete
