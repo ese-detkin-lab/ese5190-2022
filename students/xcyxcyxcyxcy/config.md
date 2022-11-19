@@ -38,3 +38,5 @@ Completed
 [link](https://github.com/Sharonun/LAB2B)
 ### `/lab2b/part10/status`
 completed
+### `/lab2b/status`
+ Completed
