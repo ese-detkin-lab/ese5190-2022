@@ -23,20 +23,20 @@ Complete
 ### `/lab2b/part06/status`
 (https://github.com/Zhuoling11/Lab2b-Part6)
 ### `/lab2b/part07/link`
-none
+(https://github.com/Zhuoling11/Lab2B-Part7)
 ### `/lab2b/part07/status`
-In progress
+Complete
 ### `/lab2b/part08/link`
-none
+https://github.com/Zhuoling11/Lab2B-Part8
 ### `/lab2b/part08/status`
-In progrerss
+Compelete
 ### `/lab2b/part09/link`
-none
+(https://github.com/Zhuoling11/Lab2B-Part9/tree/main)
 ### `/lab2b/part09/status`
-In progress
+Complete
 ### `/lab2b/part10/link`
 (https://github.com/Sharonun/LAB2B)
 ### `/lab2b/part10/status`
 Complete
 ### `/lab2b/status`
-Partial Complete
+Complete
