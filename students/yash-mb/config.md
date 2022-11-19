@@ -1,42 +1,42 @@
 ### `/lab2b/part01/link`
-none
+https://github.com/yash-mb/Lab-2B-esp/tree/main/Part%201
 ### `/lab2b/part01/status`
-not-started
+Completed
 ### `/lab2b/part02/link`
-none
+https://github.com/yash-mb/Lab-2B-esp/tree/main/Part%202
 ### `/lab2b/part02/status`
-not-started
+Completed
 ### `/lab2b/part03/link`
-none
+https://github.com/yash-mb/Lab-2B-esp/tree/main/Part%203
 ### `/lab2b/part03/status`
-not-started
+Completed
 ### `/lab2b/part04/link`
-none
+https://github.com/yash-mb/Lab-2B-esp/tree/main/Part%204
 ### `/lab2b/part04/status`
-not-started
+Completed
 ### `/lab2b/part05/link`
-none
+https://github.com/yash-mb/Lab-2B-esp/tree/main/Part%205
 ### `/lab2b/part05/status`
-not-started
+Completed
 ### `/lab2b/part06/link`
-none
+https://github.com/yash-mb/Lab-2B-esp/tree/main/Part%206
 ### `/lab2b/part06/status`
-not-started
+Completed
 ### `/lab2b/part07/link`
-none
+https://github.com/yash-mb/Lab-2B-esp/tree/main/Part%207
 ### `/lab2b/part07/status`
-not-started
+Completed
 ### `/lab2b/part08/link`
-none
+https://github.com/yash-mb/Lab-2B-esp/tree/main/Part%208
 ### `/lab2b/part08/status`
-not-started
+Completed
 ### `/lab2b/part09/link`
-none
+https://github.com/yash-mb/Lab-2B-esp/tree/main/Part%209
 ### `/lab2b/part09/status`
-not-started
+Completed
 ### `/lab2b/part10/link`
-none
+https://github.com/yash-mb/Lab-2B-esp/tree/main/Part%2010
 ### `/lab2b/part10/status`
-not-started
+Completed
 ### `/lab2b/status`
-not-started
+Done
