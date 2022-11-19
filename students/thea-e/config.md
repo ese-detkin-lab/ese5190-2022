@@ -21,22 +21,22 @@ completed
 ### `/lab2b/part06/link`
 https://github.com/Thea-E/ese5190-2022-lab2b-esp/tree/main/lab/06_pioscope
 ### `/lab2b/part06/status`
-In progress
+completed
 ### `/lab2b/part07/link`
 https://github.com/Thea-E/ese5190-2022-lab2b-esp/tree/main/lab/07_pio_sequencer
 ### `/lab2b/part07/status`
-In progress
+Completed
 ### `/lab2b/part08/link`
-none
+Together with part 9
+https://github.com/Thea-E/ese5190-2022-lab2b-esp/tree/main/lab/09_lab_on_a_chip
 ### `/lab2b/part08/status`
-not-started
+Completed
 ### `/lab2b/part09/link`
-none
+https://github.com/Thea-E/ese5190-2022-lab2b-esp/tree/main/lab/09_lab_on_a_chip
 ### `/lab2b/part09/status`
-not-started
-### `/lab2b/part10/link`
-none
-### `/lab2b/part10/status`
-not-started
+Completed
+### `/lab2b/Feedback
+https://github.com/Thea-E/ese5190-2022-lab2b-esp/blob/main/lab/Feedback.md
+
 ### `/lab2b/status`
-not-started
+Completed
