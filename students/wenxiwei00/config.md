@@ -31,9 +31,9 @@ https://github.com/wenxiwei00/ese5190-2022-lab2b-esp/tree/main/lab/08_adps_proto
 ### `/lab2b/part08/status`
 Completed
 ### `/lab2b/part09/link`
-none
+https://github.com/wenxiwei00/ese5190-2022-lab2b-esp/tree/main/lab/09_lab_on_a_chip
 ### `/lab2b/part09/status`
-not-started
+Almost Complete
 ### `/lab2b/part10/link`
 https://github.com/wenxiwei00/ese5190-2022-lab2b-esp/tree/main/lab/10_protoboard
 ### `/lab2b/part10/status`
