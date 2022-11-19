@@ -39,4 +39,13 @@ none
 ### `/lab2b/part10/status`
 not-started
 ### `/lab2b/status`
-not-started
+Done.
+### Friday Submission Answers
+
+1. I found the description of part 3 requirements the most confusing. In the description it is stated that:
+
+  record 'macros' (a sequence of console commands) based on keystrokes in your serial console
+  hand-edit a list of register read/write commands on your laptop, and play them on the RP2040
+  include multiple I/O sources in a recording, and remap among the following:
+  inputs: BOOT button, console commands, register read/write commands
+  outputs: neopixel color, neopixel brightness, data over serial, register read/write commands
