@@ -25,7 +25,7 @@ complete
 ### `/lab2b/part07/link`
 https://github.com/sugahiraeth/Lab2Bese5190/tree/main/Parts/Part7
 ### `/lab2b/part07/status`
-in prog
+complete
 ### `/lab2b/part08/link`
 https://github.com/sugahiraeth/Lab2Bese5190/tree/main/Parts/Part8
 ### `/lab2b/part08/status`
@@ -33,10 +33,10 @@ complete
 ### `/lab2b/part09/link`
 https://github.com/sugahiraeth/Lab2Bese5190/tree/main/Parts/Part9
 ### `/lab2b/part09/status`
-in prog
+complete
 ### `/lab2b/part10/link`
 https://github.com/sugahiraeth/Lab2Bese5190/tree/main/Parts/Part10
 ### `/lab2b/part10/status`
-not-started
+complete
 ### `/lab2b/status`
 done
