@@ -33,7 +33,7 @@ complete
 ### `/lab2b/part09/link`
 https://github.com/Phoebe-www/ese5190-2022-lab2b-esp/tree/main/lab/09_lab_on_a_chip
 ### `/lab2b/part09/status`
-not-started
+complete
 ### `/lab2b/part10/link`
 https://github.com/Phoebe-www/ese5190-2022-lab2b-esp/blob/main/lab/10_protoboard/README.md
 ### `/lab2b/part10/status`
