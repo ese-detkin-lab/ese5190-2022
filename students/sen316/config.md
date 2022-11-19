@@ -25,20 +25,20 @@ Completed
 ### `/lab2b/part07/link`
 https://github.com/SEN316/ese519-lab2B-part1-10/tree/main/7_pio_sequencer
 ### `/lab2b/part07/status`
-In-progress
+Completed
 ### `/lab2b/part08/link`
 https://github.com/SEN316/ese519-lab2B-part1-10/tree/main/8_adps_protocol
 ### `/lab2b/part08/status`
-not-started
+Completed
 ### `/lab2b/part09/link`
 https://github.com/SEN316/ese519-lab2B-part1-10/tree/main/9_lab_on_a_chip
 ### `/lab2b/part09/status`
-not-started
+Completed
 ### `/lab2b/part10/link`
 https://github.com/SEN316/ese519-lab2B-part1-10/tree/main/10_protoboard
 ### `/lab2b/part10/status`
-not-started
+Completed
 ### `/lab2b/status`
-In-progress
+Completed
 ### `/lab2b/feedback`
 https://github.com/SEN316/ese519-lab2B-part1-10/blob/main/README.md)
