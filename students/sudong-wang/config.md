@@ -27,16 +27,16 @@ none
 ### `/lab2b/part07/status`
 not-started
 ### `/lab2b/part08/link`
-none
+[none](https://github.com/sudong-wang/lab2b-part8/tree/main)
 ### `/lab2b/part08/status`
-not-started
+completed
 ### `/lab2b/part09/link`
-none
+[none](https://github.com/sudong-wang/lab2-part9/blob/main/README.md)
 ### `/lab2b/part09/status`
-not-started
+completed
 ### `/lab2b/part10/link`
-none
+[none](https://github.com/sudong-wang/lab-part10)
 ### `/lab2b/part10/status`
-not-started
+completed
 ### `/lab2b/status`
-not-started
+completed
