@@ -31,9 +31,9 @@ https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/08_adps_protoco
 ### `/lab2b/part08/status`
 Completed.
 ### `/lab2b/part09/link`
-none
+https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/09_lab_on_a_chip/README.md
 ### `/lab2b/part09/status`
-not-started
+Completed.
 ### `/lab2b/part10/link`
 https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/10_protoboard/README.md
 ### `/lab2b/part10/status`
