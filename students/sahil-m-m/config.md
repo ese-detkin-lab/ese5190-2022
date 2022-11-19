@@ -35,8 +35,8 @@ https://github.com/Sahil-M-M/ESE-5190-Lab-2B/tree/main/Lab/09_lab_on_a_chip
 ### `/lab2b/part09/status`
 Completed
 ### `/lab2b/part10/link`
-none
+https://github.com/Sahil-M-M/ESE-5190-Lab-2B/tree/main/Lab/10_protoboard
 ### `/lab2b/part10/status`
-in-progress
+Completed
 ### `/lab2b/status`
-in-progress
+Completed
