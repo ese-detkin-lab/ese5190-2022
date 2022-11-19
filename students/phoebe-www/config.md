@@ -44,5 +44,14 @@ not-started
 ## Friday Submission Answer
 
 1. Which parts of the lab specification have you found most confusing or difficult to understand?
-2. 
+I found part 4 and part 8 are the most confusing things because it is the first time for me to apply PIO and I2C in lab. And in part4 we need to use both python and c. I didn't think of using python at first, so this part was also a confusing point for me.
+
+2. Which lab topics have you found most confusing or difficult to understand?
+In part4 we need to programme PIO files which is the most difficult part for me. I read the datasheet difficultly and don't know how can I realize the requirment.
+
+3. Which parts of the lab have you found most difficult to implement? 
+Part4 and Part8. In particular, I don't know how to use the "serial" library in Python code.
+
+4. What steps have you taken to resolve these difficulties? 
+Ask the other classmates and read documents online.
 
