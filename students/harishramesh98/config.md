@@ -33,10 +33,10 @@ Done
 ### `/lab2b/part09/link`
 https://github.com/harishramesh98/lab-2b-pre/tree/main/part_9
 ### `/lab2b/part09/status`
-not-started
+Done
 ### `/lab2b/part10/link`
 https://github.com/harishramesh98/lab-2b-pre/tree/main/part_10
 ### `/lab2b/part10/status`
-not-started
+Done
 ### `/lab2b/status`
-not-started
+Done
