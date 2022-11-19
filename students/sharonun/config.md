@@ -25,18 +25,18 @@ complete
 ### `/lab2b/part07/link`
 https://github.com/Sharonun/Lab2B-part2-7/tree/main/part7
 ### `/lab2b/part07/status`
-in progress
+complete
 ### `/lab2b/part08/link`
-https://github.com/Sharonun/Lab2B-part2-7/tree/main/part%208
+https://github.com/xcyxcyxcyxcy/lab2B-part08
 ### `/lab2b/part08/status`
-in progress
+complete
 ### `/lab2b/part09/link`
-none
+https://github.com/xcyxcyxcyxcy/lab2B-part09
 ### `/lab2b/part09/status`
-not-started
+complete
 ### `/lab2b/part10/link`
 https://github.com/Sharonun/LAB2B
 ### `/lab2b/part10/status`
 complete
 ### `/lab2b/status`
-in progress
+complete
