@@ -54,4 +54,6 @@ Done.
     
 2. Progamming the PIO files, especially the assembly part is the modt confusing part to me. It requires many efforts on reading the documentations and datasheets regarding the PIO techniques.
 
-3. C/Python co-design for sequencer is the most challenging part to me, especially the "serial" library utilized in the Python code. I have 
+3. C/Python co-design for sequencer is the most challenging part to me, especially the "serial" library utilized in the Python code. 
+
+4. I discussed with my teammates and seeked for help online by searching for documentations and posts on forum. For the difficult problem that I could not find any relevant information online, I would check my peer classmates' solutions for inspirations.
