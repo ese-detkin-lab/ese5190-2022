@@ -39,7 +39,7 @@ https://github.com/Phoebe-www/ese5190-2022-lab2b-esp/blob/main/lab/10_protoboard
 ### `/lab2b/part10/status`
 complete
 ### `/lab2b/status`
-not-started
+complete
 
 ## Friday Submission Answer
 
