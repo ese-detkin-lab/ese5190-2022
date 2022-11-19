@@ -1,42 +1,42 @@
 ### `/lab2b/part01/link`
-none
+[part1](https://github.com/ChiYuan9/ESE5190-Lab2B/tree/main/lab/part1)
 ### `/lab2b/part01/status`
-not-started
+Completed
 ### `/lab2b/part02/link`
-none
+[part2](https://github.com/ChiYuan9/ESE5190-Lab2B/tree/main/lab/part2)
 ### `/lab2b/part02/status`
-not-started
+Completed
 ### `/lab2b/part03/link`
-none
+[part3](https://github.com/ChiYuan9/ESE5190-Lab2B/tree/main/lab/part3)
 ### `/lab2b/part03/status`
-not-started
+Completed
 ### `/lab2b/part04/link`
-none
+[part4](https://github.com/ChiYuan9/ESE5190-Lab2B/tree/main/lab/part4)
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+[part5](https://github.com/ChiYuan9/ESE5190-Lab2B/tree/main/lab/part5)
 ### `/lab2b/part05/status`
-not-started
+Completed
 ### `/lab2b/part06/link`
-none
+[part6](https://github.com/ChiYuan9/ESE5190-Lab2B/tree/main/lab/part6)
 ### `/lab2b/part06/status`
-not-started
+Completed
 ### `/lab2b/part07/link`
-none
+[part7](https://github.com/ChiYuan9/ESE5190-Lab2B/tree/main/lab/part7)
 ### `/lab2b/part07/status`
-not-started
+Completed
 ### `/lab2b/part08/link`
-none
+[part8](https://github.com/ChiYuan9/ESE5190-Lab2B/tree/main/lab/part8)
 ### `/lab2b/part08/status`
-not-started
+Completed
 ### `/lab2b/part09/link`
-none
+[part9](https://github.com/ChiYuan9/ESE5190-Lab2B/tree/main/lab/part9)
 ### `/lab2b/part09/status`
-not-started
+Completed
 ### `/lab2b/part10/link`
-none
+[part10](https://github.com/ChiYuan9/ESE5190-Lab2B/tree/main/lab/part10)
 ### `/lab2b/part10/status`
-not-started
+Completed
 ### `/lab2b/status`
-not-started
+Completed
