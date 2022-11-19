@@ -35,9 +35,9 @@ none
 ### `/lab2b/part09/status`
 not-started
 ### `/lab2b/part10/link`
-none
+https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/10_protoboard/README.md
 ### `/lab2b/part10/status`
-not-started
+Completed.
 ### `/lab2b/status`
 Done.
 ### Friday Submission Answers
