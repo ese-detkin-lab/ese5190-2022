@@ -25,18 +25,18 @@ complete
 ### `/lab2b/part07/link`
 [Part 07](https://github.com/SurajMarthy1001/Lab2B_ESP/tree/main/lab2b/part07)
 ### `/lab2b/part07/status`
-in-progress
+complete
 ### `/lab2b/part08/link`
 [Part 08](https://github.com/SurajMarthy1001/Lab2B_ESP/tree/main/lab2b/part08)
 ### `/lab2b/part08/status`
-in-progress
+complete
 ### `/lab2b/part09/link`
 [Part 09](https://github.com/SurajMarthy1001/Lab2B_ESP/tree/main/lab2b/part09)
 ### `/lab2b/part09/status`
-in-progress
+complete
 ### `/lab2b/part10/link`
 [Part 10](https://github.com/SurajMarthy1001/Lab2B_ESP/tree/main/lab2b/part10)
 ### `/lab2b/part10/status`
-in-progress
+complete
 ### `/lab2b/status`
-in-progress
+complete
