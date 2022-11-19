@@ -33,10 +33,10 @@ complete
 ### `/lab2b/part09/link`
 https://github.com/Ruturajn/Lab2b-esp/tree/main/lab2b_parts/09_lab_on_chip
 ### `/lab2b/part09/status`
-In-Progress: Interated the `APDS9960` sensor and the `ws2812`.
+complete
 ### `/lab2b/part10/link`
-none
+https://github.com/Ruturajn/Lab2b-esp/tree/main/lab2b_parts/10_protoboard
 ### `/lab2b/part10/status`
-not-started
+complete
 ### `/lab2b/status`
-not-started
+complete
