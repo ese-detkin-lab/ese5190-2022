@@ -27,16 +27,16 @@ https://github.com/arnavgadre/Lab2b_esp_Arnav/tree/main/Lab_2B_Parts/Part_7
 ### `/lab2b/part07/status`
 complete
 ### `/lab2b/part08/link`
-none
+https://github.com/arnavgadre/Lab2b_esp_Arnav/tree/main/Lab_2B_Parts/Part_8
 ### `/lab2b/part08/status`
-not-started
+complete
 ### `/lab2b/part09/link`
-none
+https://github.com/arnavgadre/Lab2b_esp_Arnav/tree/main/Lab_2B_Parts/Part_9
 ### `/lab2b/part09/status`
-not-started
+complete
 ### `/lab2b/part10/link`
-none
+https://github.com/arnavgadre/Lab2b_esp_Arnav/tree/main/Lab_2B_Parts/Part_10
 ### `/lab2b/part10/status`
-not-started
+complete
 ### `/lab2b/status`
-not-started
+complete
