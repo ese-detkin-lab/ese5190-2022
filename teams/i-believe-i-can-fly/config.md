@@ -10,3 +10,4 @@ https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/anniepan8215
 https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/ariiees
 ### `/student`
 https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/yuxuan-li295
+### `/midpoint`
