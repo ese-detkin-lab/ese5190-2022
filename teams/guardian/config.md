@@ -10,3 +10,4 @@ https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/angli-00
 https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/indigoquadratic
 ### `/student`
 https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/sen316
+### `/midpoint`
