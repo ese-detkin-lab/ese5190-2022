@@ -1,23 +1,23 @@
 ### `/lab2b/part01/link`
-none
+https://github.com/Ruturajn/Lab2b-esp/tree/main/lab2b_parts/01_registers
 ### `/lab2b/part01/status`
-not-started
+complete
 ### `/lab2b/part02/link`
-none
+https://github.com/Ruturajn/Lab2b-esp/tree/main/lab2b_parts/02_repl
 ### `/lab2b/part02/status`
-not-started
+complete
 ### `/lab2b/part03/link`
-none
+https://github.com/Ruturajn/Lab2b-esp/tree/main/lab2b_parts/03_sequencer
 ### `/lab2b/part03/status`
-not-started
+complete
 ### `/lab2b/part04/link`
-none
+https://github.com/Ruturajn/Lab2b-esp/tree/main/lab2b_parts/04_slow_motion
 ### `/lab2b/part04/status`
-not-started
+complete
 ### `/lab2b/part05/link`
-none
+https://github.com/Ruturajn/Lab2b-esp/tree/main/lab2b_parts/05_i2c_traffic
 ### `/lab2b/part05/status`
-not-started
+complete
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
