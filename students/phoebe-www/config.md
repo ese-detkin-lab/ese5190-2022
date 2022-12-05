@@ -1,23 +1,23 @@
 ### `/lab2b/part01/link`
-none
+https://github.com/Phoebe-www/ese5190-2022-lab2b-esp/blob/main/lab/01_registers/README.md
 ### `/lab2b/part01/status`
-not-started
+complete
 ### `/lab2b/part02/link`
-none
+https://github.com/Phoebe-www/ese5190-2022-lab2b-esp/blob/main/lab/02_repl/README.md
 ### `/lab2b/part02/status`
-not-started
+complete
 ### `/lab2b/part03/link`
-none
+https://github.com/Phoebe-www/ese5190-2022-lab2b-esp/blob/main/lab/03_sequencer/README.md
 ### `/lab2b/part03/status`
-not-started
+complete
 ### `/lab2b/part04/link`
 none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+https://github.com/Phoebe-www/ese5190-2022-lab2b-esp/tree/main/lab/05_i2c_traffic
 ### `/lab2b/part05/status`
-not-started
+complete
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`

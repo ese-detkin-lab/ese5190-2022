@@ -1,23 +1,23 @@
 ### `/lab2b/part01/link`
 none
 ### `/lab2b/part01/status`
-not-started
+done
 ### `/lab2b/part02/link`
 none
 ### `/lab2b/part02/status`
-not-started
+in-progress
 ### `/lab2b/part03/link`
 none
 ### `/lab2b/part03/status`
-not-started
+in-progress
 ### `/lab2b/part04/link`
 none
 ### `/lab2b/part04/status`
-not-started
+in-progress
 ### `/lab2b/part05/link`
-none
+https://github.com/prateekbashista/ESE-5190-Documents/blob/8a1eff5bd850aaeddfd39956eba228789a71bfe7/Lab2b_part05.md
 ### `/lab2b/part05/status`
-not-started
+complete
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
