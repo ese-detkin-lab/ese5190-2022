@@ -12,3 +12,5 @@ https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/indigoquadrati
 https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/sen316
 ### `/midpoint`
 ### `/b-roll`
+### `/project-site`
+### `/project-code`
