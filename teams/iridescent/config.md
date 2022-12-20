@@ -12,3 +12,5 @@ https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/xcyxcyxcyxcy
 https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/zhuoling11
 ### `/midpoint`
 ### `/b-roll`
+### `/project-site`
+### `/project-code`

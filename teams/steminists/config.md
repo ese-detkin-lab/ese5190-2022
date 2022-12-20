@@ -12,3 +12,5 @@ https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/essaalk
 https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/saurabhparulekar24
 ### `/midpoint`
 ### `/b-roll`
+### `/project-site`
+### `/project-code`
