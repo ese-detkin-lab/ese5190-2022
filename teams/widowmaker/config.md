@@ -12,5 +12,5 @@ https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/real-yingxu
 https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/sudong-wang
 ### `/midpoint`
 ### `/b-roll`
-### `/project-site`
-### `/project-code`
+### `/project-site`.  5190widowmaker.github.io
+### `/project-code`.  https://github.com/5190widowmaker/5190widowmaker.github.io
