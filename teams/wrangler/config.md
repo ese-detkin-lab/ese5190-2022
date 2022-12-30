@@ -9,6 +9,8 @@ https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/skyfall88888
 ### `/student`
 https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/thea-e
 ### `/midpoint`
+https://github.com/Thea-E/ESE519-FinalProj/blob/main/README.md
 ### `/b-roll`
 ### `/project-site`
+https://wrangler519.github.io/
 ### `/project-code`
