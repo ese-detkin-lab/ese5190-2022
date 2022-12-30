@@ -13,4 +13,6 @@ https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/saurabhparulek
 ### `/midpoint`
 ### `/b-roll`
 ### `/project-site`
+https://team-steminists.github.io/final-submission/
 ### `/project-code`
+https://github.com/Team-STEMinists/Movemate
