@@ -12,5 +12,7 @@ https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/sueqixue
 https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/willchan9
 ### `/midpoint`
 https://github.com/PZZ97/519_project
-### `\writeup`
+### `/writeup`
+https://darkmoon519.github.io/
+### `/github`
 https://github.com/PZZ97/519_project
