@@ -13,4 +13,6 @@ https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/shantykins
 ### `/midpoint`
 ### `/b-roll`
 ### `/project-site`
+https://falafelese519.github.io/posts/my-first-post/
 ### `/project-code`
+https://github.com/falafelese519/falafelese519.github.io
