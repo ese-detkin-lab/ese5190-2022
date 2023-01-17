@@ -5,15 +5,15 @@ Complete
 ### `/lab2b/part02/link`
 [Link 2](https://github.com/ILandingI/LAB-2b/blob/76dc88017224b7dc1e500394df9101ea54b3358f/part%202.c)
 ### `/lab2b/part02/status`
-Almost complete
+complete
 ### `/lab2b/part03/link`
 [Link 3](https://github.com/IndigoQuadratic/ese5190-2022-lab2b-esp/tree/main/flashlight/p3)
 ### `/lab2b/part03/status`
-In-progress
+complete
 ### `/lab2b/part04/link`
 [Link 4](https://github.com/ILandingI/ese5190-2022/tree/main/students/ilandingi/p4)
 ### `/lab2b/part04/status`
-In-progress
+complete
 ### `/lab2b/part05/link`
 [Link 5](https://github.com/ILandingI/LAB-2b/blob/ba2e243067def899111668d9e70cba856ffd3145/part5%20I2c.jpg)
 ### `/lab2b/part05/status`
