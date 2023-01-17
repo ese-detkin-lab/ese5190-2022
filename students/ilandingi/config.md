@@ -37,6 +37,6 @@ complete
 ### `/lab2b/part10/link`
 [Link 10](https://github.com/ILandingI/ese5190-2022/tree/main/students/ilandingi/P10)
 ### `/lab2b/part10/status`
-In-progress
+complete
 ### `/lab2b/status`
-In-progress
+complete
