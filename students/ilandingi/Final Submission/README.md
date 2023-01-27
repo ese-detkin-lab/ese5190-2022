@@ -1,4 +1,4 @@
-# ESE 5190 Final Project 
+# ESE 5190 Final Project: Smart Access Control: A Secure and Convenient Door Entry System using Photoresistor and IC Card Reader Technology
 
 
 ##  Project Description
